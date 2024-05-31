@@ -1,0 +1,400 @@
+{
+  "tfc:crafting/stone/knife_metamorphic": {
+    "criteria": {
+      "has_item": "2024-03-30 14:08:05 +0100"
+    },
+    "done": true
+  },
+  "tfc:crafting/rock/limestone_loose_rocks_to_cobble": {
+    "criteria": {
+      "has_item": "2024-03-30 14:23:05 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_axe": {
+    "criteria": {
+      "has_stick": "2024-03-30 14:11:13 +0100"
+    },
+    "done": true
+  },
+  "tfc:crafting/thatch": {
+    "criteria": {
+      "has_item": "2024-03-30 14:08:50 +0100"
+    },
+    "done": true
+  },
+  "tfc:story/root": {
+    "criteria": {
+      "in_game_condition": "2024-03-29 20:56:01 +0100"
+    },
+    "done": true
+  },
+  "tfc:crafting/soil/loam_mud_7": {
+    "criteria": {
+      "has_item": "2024-03-30 14:09:02 +0100"
+    },
+    "done": true
+  },
+  "tfc:crafting/soil/loam_mud_8": {
+    "criteria": {
+      "has_item": "2024-03-30 14:09:02 +0100"
+    },
+    "done": true
+  },
+  "tfc:crafting/soil/loam_mud_5": {
+    "criteria": {
+      "has_item": "2024-03-30 14:09:02 +0100"
+    },
+    "done": true
+  },
+  "tfc:crafting/soil/loam_mud_6": {
+    "criteria": {
+      "has_item": "2024-03-30 14:09:02 +0100"
+    },
+    "done": true
+  },
+  "tfc:crafting/soil/loam_mud_3": {
+    "criteria": {
+      "has_item": "2024-03-30 14:09:02 +0100"
+    },
+    "done": true
+  },
+  "tfc:crafting/soil/loam_mud_4": {
+    "criteria": {
+      "has_item": "2024-03-30 14:09:02 +0100"
+    },
+    "done": true
+  },
+  "tfc:crafting/stone/shovel_metamorphic": {
+    "criteria": {
+      "has_item": "2024-03-30 14:11:11 +0100"
+    },
+    "done": true
+  },
+  "tfc:crafting/soil/loam_mud_1": {
+    "criteria": {
+      "has_item": "2024-03-30 14:09:02 +0100"
+    },
+    "done": true
+  },
+  "tfc:crafting/soil/loam_mud_2": {
+    "criteria": {
+      "has_item": "2024-03-30 14:09:02 +0100"
+    },
+    "done": true
+  },
+  "tfc:story/find_clay": {
+    "criteria": {
+      "clay_ball": "2024-03-30 14:14:07 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/campfire": {
+    "criteria": {
+      "has_stick": "2024-03-30 14:11:13 +0100"
+    },
+    "done": true
+  },
+  "tfc:crafting/vanilla/hay_bale": {
+    "criteria": {
+      "has_item": "2024-03-30 14:08:50 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_pickaxe": {
+    "criteria": {
+      "has_stick": "2024-03-30 14:11:13 +0100"
+    },
+    "done": true
+  },
+  "tfc:crafting/stick_bunch": {
+    "criteria": {
+      "has_item": "2024-03-30 14:06:37 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/ladder": {
+    "criteria": {
+      "has_stick": "2024-03-30 14:11:13 +0100"
+    },
+    "done": true
+  },
+  "tfc:crafting/rock/limestone_brick": {
+    "criteria": {
+      "has_item": "2024-03-30 14:23:05 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/chest": {
+    "criteria": {
+      "has_lots_of_items": "2024-03-30 14:08:54 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_boat": {
+    "criteria": {
+      "in_water": "2024-03-30 14:09:27 +0100"
+    },
+    "done": true
+  },
+  "tfc:story/stone_age": {
+    "criteria": {
+      "stone_tools": "2024-03-30 14:07:01 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_shovel": {
+    "criteria": {
+      "has_stick": "2024-03-30 14:11:13 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/acacia_boat": {
+    "criteria": {
+      "in_water": "2024-03-30 14:09:27 +0100"
+    },
+    "done": true
+  },
+  "tfc:story/logging": {
+    "criteria": {
+      "logs": "2024-03-30 14:07:13 +0100"
+    },
+    "done": true
+  },
+  "tfc:crafting/wood/birch_lumber_log": {
+    "criteria": {
+      "has_item": "2024-03-30 14:17:10 +0100"
+    },
+    "done": true
+  },
+  "tfc:crafting/flux": {
+    "criteria": {
+      "has_item": "2024-03-30 14:23:05 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/jungle_boat": {
+    "criteria": {
+      "in_water": "2024-03-30 14:09:27 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/clay": {
+    "criteria": {
+      "has_clay_ball": "2024-03-30 14:14:07 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/spruce_boat": {
+    "criteria": {
+      "in_water": "2024-03-30 14:09:27 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/wooden_sword": {
+    "criteria": {
+      "has_stick": "2024-03-30 14:11:13 +0100"
+    },
+    "done": true
+  },
+  "tfc:crafting/rock/gneiss_loose_rocks_to_cobble": {
+    "criteria": {
+      "has_item": "2024-03-30 14:06:37 +0100"
+    },
+    "done": true
+  },
+  "tfc:crafting/stone/axe_metamorphic": {
+    "criteria": {
+      "has_item": "2024-03-30 14:07:01 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_boat": {
+    "criteria": {
+      "in_water": "2024-03-30 14:09:27 +0100"
+    },
+    "done": true
+  },
+  "tfc:crafting/soil/sandy_loam_mud_4": {
+    "criteria": {
+      "has_item": "2024-03-30 14:20:01 +0100"
+    },
+    "done": true
+  },
+  "tfc:crafting/soil/sandy_loam_mud_3": {
+    "criteria": {
+      "has_item": "2024-03-30 14:20:01 +0100"
+    },
+    "done": true
+  },
+  "tfc:crafting/soil/sandy_loam_mud_6": {
+    "criteria": {
+      "has_item": "2024-03-30 14:20:01 +0100"
+    },
+    "done": true
+  },
+  "tfc:crafting/soil/sandy_loam_mud_5": {
+    "criteria": {
+      "has_item": "2024-03-30 14:20:01 +0100"
+    },
+    "done": true
+  },
+  "tfc:story/get_straw": {
+    "criteria": {
+      "straw": "2024-03-30 14:08:50 +0100"
+    },
+    "done": true
+  },
+  "tfc:crafting/soil/sandy_loam_mud_2": {
+    "criteria": {
+      "has_item": "2024-03-30 14:20:01 +0100"
+    },
+    "done": true
+  },
+  "tfc:crafting/soil/sandy_loam_mud_1": {
+    "criteria": {
+      "has_item": "2024-03-30 14:20:01 +0100"
+    },
+    "done": true
+  },
+  "tfc:crafting/wood/chestnut_wood": {
+    "criteria": {
+      "has_item": "2024-03-30 14:07:13 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_hoe": {
+    "criteria": {
+      "has_stick": "2024-03-30 14:11:13 +0100"
+    },
+    "done": true
+  },
+  "tfc:crafting/wood/stick_from_twigs": {
+    "criteria": {
+      "has_item": "2024-03-30 14:06:37 +0100"
+    },
+    "done": true
+  },
+  "tfc:crafting/daub": {
+    "criteria": {
+      "has_item": "2024-03-30 14:08:50 +0100"
+    },
+    "done": true
+  },
+  "tfc:crafting/rock/gneiss_brick": {
+    "criteria": {
+      "has_item": "2024-03-30 14:06:37 +0100"
+    },
+    "done": true
+  },
+  "tfc:crafting/wood/chestnut_lumber_log": {
+    "criteria": {
+      "has_item": "2024-03-30 14:07:13 +0100"
+    },
+    "done": true
+  },
+  "tfc:story/pit_kiln": {
+    "criteria": {
+      "special_condition": "2024-03-30 14:27:25 +0100"
+    },
+    "done": true
+  },
+  "create:root": {
+    "criteria": {
+      "0": "2024-03-30 14:06:37 +0100"
+    },
+    "done": true
+  },
+  "tfc:story/knap_clay": {
+    "criteria": {
+      "unfired_pottery": "2024-03-30 14:14:16 +0100"
+    },
+    "done": true
+  },
+  "tfc:story/firestarter": {
+    "criteria": {
+      "firestarter": "2024-03-30 14:27:16 +0100"
+    },
+    "done": true
+  },
+  "tfc:story/find_rock": {
+    "criteria": {
+      "rock_knapping": "2024-03-30 14:06:37 +0100"
+    },
+    "done": true
+  },
+  "tfc:crafting/firestarter": {
+    "criteria": {
+      "has_item": "2024-03-30 14:06:37 +0100"
+    },
+    "done": true
+  },
+  "tfc:crafting/wood/birch_wood": {
+    "criteria": {
+      "has_item": "2024-03-30 14:17:10 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_boat": {
+    "criteria": {
+      "in_water": "2024-03-30 14:09:27 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/crossbow": {
+    "criteria": {
+      "has_stick": "2024-03-30 14:11:13 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_campfire": {
+    "criteria": {
+      "has_stick": "2024-03-30 14:11:13 +0100"
+    },
+    "done": true
+  },
+  "tfc:world/root": {
+    "criteria": {
+      "in_game_condition": "2024-03-29 20:56:01 +0100"
+    },
+    "done": true
+  },
+  "tfc:crafting/soil/sandy_loam_mud_8": {
+    "criteria": {
+      "has_item": "2024-03-30 14:20:01 +0100"
+    },
+    "done": true
+  },
+  "tfc:crafting/soil/sandy_loam_mud_7": {
+    "criteria": {
+      "has_item": "2024-03-30 14:20:01 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/brick": {
+    "criteria": {
+      "has_clay_ball": "2024-03-30 14:14:07 +0100"
+    },
+    "done": true
+  },
+  "tfc:crafting/wattle": {
+    "criteria": {
+      "has_item": "2024-03-30 14:07:13 +0100"
+    },
+    "done": true
+  },
+  "tfc:world/adventuring_time": {
+    "criteria": {
+      "rolling_hills": "2024-03-29 20:55:55 +0100",
+      "inverted_badlands": "2024-03-30 14:21:46 +0100",
+      "plains": "2024-03-30 14:09:49 +0100",
+      "plateau": "2024-03-30 14:18:30 +0100",
+      "badlands": "2024-03-30 14:21:05 +0100",
+      "hills": "2024-03-30 14:06:02 +0100",
+      "river": "2024-03-29 20:56:13 +0100",
+      "lake": "2024-03-30 14:09:25 +0100"
+    },
+    "done": false
+  },
+  "DataVersion": 2975
+}

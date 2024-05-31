@@ -1,0 +1,14 @@
+name = "TFC Water Flasks"
+filename = "waterflasks-3.0.2.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/ONgsGaM9/versions/u4ZHiXon/waterflasks-3.0.2.jar"
+hash-format = "sha512"
+hash = "73c877f4f737ddb64e981b8c633881c2231f4924bc310559d9c1e1f18a61afbe5e547172f781c5a39e688eae9e1974bfe6ad7900fe2c00b937dfcf4daa40d249"
+
+[update]
+[update.modrinth]
+mod-id = "ONgsGaM9"
+version = "u4ZHiXon"

@@ -1,0 +1,29 @@
+{
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "unlock_right_away": "2024-05-31 21:12:07 +0200"
+    },
+    "done": true
+  },
+  "tfc:world/adventuring_time": {
+    "criteria": {
+      "mountains": "2024-05-31 21:17:57 +0200",
+      "rolling_hills": "2024-05-31 21:18:46 +0200",
+      "river": "2024-05-31 21:17:47 +0200"
+    },
+    "done": false
+  },
+  "tfc:story/root": {
+    "criteria": {
+      "in_game_condition": "2024-05-31 21:12:07 +0200"
+    },
+    "done": true
+  },
+  "tfc:world/root": {
+    "criteria": {
+      "in_game_condition": "2024-05-31 21:12:07 +0200"
+    },
+    "done": true
+  },
+  "DataVersion": 3465
+}
