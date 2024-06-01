@@ -1,11 +1,22 @@
-[21:07:34] [INIT] KubeJS 2001.6.5-build.7; MC 2001 forge
-[21:07:34] [INIT] Loaded plugins:
-[21:07:34] [INIT] - dev.latvian.mods.kubejs.forge.BuiltinKubeJSForgePlugin
-[21:07:34] [INIT] - dev.latvian.mods.kubejs.forge.BuiltinKubeJSForgeClientPlugin
-[21:07:34] [INIT] - dev.latvian.mods.kubejs.create.KubeJSCreatePlugin
-[21:07:34] [ERROR] ! Line 11: 'onEvent()' is no longer supported! Read more on wiki: https://kubejs.com/kjs6
-[21:07:34] [ERROR] ! Line 2: 'java()' is no longer supported! Read more on wiki: https://kubejs.com/kjs6
-[21:07:34] [ERROR] ! Line 2: 'onEvent()' is no longer supported! Read more on wiki: https://kubejs.com/kjs6
-[21:07:34] [ERROR] ! Line 2: 'onEvent()' is no longer supported! Read more on wiki: https://kubejs.com/kjs6
-[21:07:34] [INFO] Loaded 0/4 KubeJS server scripts in 0.037 s with 4 errors and 0 warnings
-[21:07:34] [INFO] Scripts loaded
+[16:02:30] [INIT] KubeJS 2001.6.5-build.7; MC 2001 forge
+[16:02:30] [INIT] Loaded plugins:
+[16:02:30] [INIT] - dev.latvian.mods.kubejs.forge.BuiltinKubeJSForgePlugin
+[16:02:30] [INIT] - dev.latvian.mods.kubejs.forge.BuiltinKubeJSForgeClientPlugin
+[16:02:30] [INIT] - dev.latvian.mods.kubejs.create.KubeJSCreatePlugin
+[16:02:30] [INIT] - com.probejs.ProbeJSPlugin
+[16:02:30] [INFO] Loaded script server_scripts:configured.js in 0.01 s
+[16:02:30] [INFO] Loaded script server_scripts:functions.js in 0.0 s
+[16:02:30] [INFO] Loaded script server_scripts:removed_recipes.js in 0.007 s
+[16:02:30] [INFO] Loaded script server_scripts:tags.js in 0.0 s
+[16:02:30] [INFO] Loaded 4/4 KubeJS server scripts in 0.031 s with 0 errors and 0 warnings
+[16:02:30] [INFO] Scripts loaded
+[16:02:30] [INFO] Initializing recipe event...
+[16:02:32] [INFO] [minecraft:block] Found 500 tags, added 5 objects, removed 0 objects
+[16:02:32] [INFO] [minecraft:item] Found 897 tags, added 618 objects, removed 1 objects
+[16:02:32] [INFO] Processing recipes...
+[16:02:32] [WARN] Failed to parse recipe 'integration:blasting/glass[minecraft:smelting]'! Falling back to vanilla: Ingredient 'ingredient' can't be empty!
+[16:02:32] [INFO] Found 9559 recipes in 152.2 ms
+[16:02:33] [INFO] Posted recipe events in 197.2 ms
+[16:02:33] [WARN] Error parsing recipe integration:milling/ore/kaolinite[create:milling]: {"type":"create:milling","ingredients":[{"item":"tfc:ore/kaolinite"}],"results":[{"item":"tfc:powder/kaolinite","count":4}],"processingTime":100}: Unknown item 'tfc:ore/kaolinite'
+[16:02:33] [INFO] Added 0 recipes, removed 253 recipes, modified 1 recipes, with 1 failed recipes in 45.78 ms
+[16:02:40] [INFO] Server resource reload complete!

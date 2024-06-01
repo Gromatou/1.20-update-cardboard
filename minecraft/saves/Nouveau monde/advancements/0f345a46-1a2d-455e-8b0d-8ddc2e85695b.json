@@ -1,0 +1,737 @@
+{
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "unlock_right_away": "2024-06-01 13:02:16 +0200"
+    },
+    "done": true
+  },
+  "tfc:story/root": {
+    "criteria": {
+      "in_game_condition": "2024-06-01 13:02:16 +0200"
+    },
+    "done": true
+  },
+  "tfc:world/root": {
+    "criteria": {
+      "in_game_condition": "2024-06-01 13:02:16 +0200"
+    },
+    "done": true
+  },
+  "tfc:world/adventuring_time": {
+    "criteria": {
+      "mountains": "2024-06-01 13:05:47 +0200",
+      "rolling_hills": "2024-06-01 13:02:21 +0200",
+      "river": "2024-06-01 13:05:41 +0200"
+    },
+    "done": false
+  },
+  "create:root": {
+    "criteria": {
+      "0": "2024-06-01 13:02:41 +0200"
+    },
+    "done": true
+  },
+  "tfc:crafting/wood/birch_trapped_chest": {
+    "criteria": {
+      "has_item": "2024-06-01 13:03:20 +0200"
+    },
+    "done": true
+  },
+  "tfc:world/metallurgist": {
+    "criteria": {
+      "copper": "2024-06-01 13:03:49 +0200"
+    },
+    "done": false
+  },
+  "tfc:story/pickaxe": {
+    "criteria": {
+      "pickaxes": "2024-06-01 13:04:05 +0200"
+    },
+    "done": true
+  },
+  "tfc:story/copper_age": {
+    "criteria": {
+      "metal_item/copper_tools": "2024-06-01 13:04:05 +0200"
+    },
+    "done": true
+  },
+  "tfships:recipes/transportation/douglas_fir_brigg": {
+    "criteria": {
+      "in_water": "2024-06-01 13:05:46 +0200"
+    },
+    "done": true
+  },
+  "smallships:recipes/transportation/bamboo_galley": {
+    "criteria": {
+      "in_water": "2024-06-01 13:05:46 +0200"
+    },
+    "done": true
+  },
+  "smallships:recipes/transportation/spruce_cog": {
+    "criteria": {
+      "in_water": "2024-06-01 13:05:46 +0200"
+    },
+    "done": true
+  },
+  "smallships:recipes/transportation/acacia_cog": {
+    "criteria": {
+      "in_water": "2024-06-01 13:05:46 +0200"
+    },
+    "done": true
+  },
+  "tfships:recipes/transportation/mangrove_galley": {
+    "criteria": {
+      "in_water": "2024-06-01 13:05:46 +0200"
+    },
+    "done": true
+  },
+  "tfships:recipes/transportation/willow_galley": {
+    "criteria": {
+      "in_water": "2024-06-01 13:05:46 +0200"
+    },
+    "done": true
+  },
+  "tfships:recipes/transportation/maple_cog": {
+    "criteria": {
+      "in_water": "2024-06-01 13:05:46 +0200"
+    },
+    "done": true
+  },
+  "tfships:recipes/transportation/ash_galley": {
+    "criteria": {
+      "in_water": "2024-06-01 13:05:46 +0200"
+    },
+    "done": true
+  },
+  "tfships:recipes/transportation/oak_brigg": {
+    "criteria": {
+      "in_water": "2024-06-01 13:05:46 +0200"
+    },
+    "done": true
+  },
+  "tfships:recipes/transportation/sequoia_galley": {
+    "criteria": {
+      "in_water": "2024-06-01 13:05:46 +0200"
+    },
+    "done": true
+  },
+  "smallships:recipes/transportation/jungle_cog": {
+    "criteria": {
+      "in_water": "2024-06-01 13:05:46 +0200"
+    },
+    "done": true
+  },
+  "tfships:recipes/transportation/acacia_galley": {
+    "criteria": {
+      "in_water": "2024-06-01 13:05:46 +0200"
+    },
+    "done": true
+  },
+  "smallships:recipes/transportation/dark_oak_brigg": {
+    "criteria": {
+      "in_water": "2024-06-01 13:05:46 +0200"
+    },
+    "done": true
+  },
+  "smallships:recipes/transportation/birch_galley": {
+    "criteria": {
+      "in_water": "2024-06-01 13:05:46 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/cherry_boat": {
+    "criteria": {
+      "in_water": "2024-06-01 13:05:46 +0200"
+    },
+    "done": true
+  },
+  "tfships:recipes/transportation/sycamore_galley": {
+    "criteria": {
+      "in_water": "2024-06-01 13:05:46 +0200"
+    },
+    "done": true
+  },
+  "tfships:recipes/transportation/sycamore_brigg": {
+    "criteria": {
+      "in_water": "2024-06-01 13:05:46 +0200"
+    },
+    "done": true
+  },
+  "smallships:recipes/transportation/oak_drakkar": {
+    "criteria": {
+      "in_water": "2024-06-01 13:05:46 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/bamboo_raft": {
+    "criteria": {
+      "in_water": "2024-06-01 13:05:46 +0200"
+    },
+    "done": true
+  },
+  "smallships:recipes/transportation/mangrove_brigg": {
+    "criteria": {
+      "in_water": "2024-06-01 13:05:46 +0200"
+    },
+    "done": true
+  },
+  "smallships:recipes/transportation/jungle_brigg": {
+    "criteria": {
+      "in_water": "2024-06-01 13:05:46 +0200"
+    },
+    "done": true
+  },
+  "tfships:recipes/transportation/kapok_cog": {
+    "criteria": {
+      "in_water": "2024-06-01 13:05:46 +0200"
+    },
+    "done": true
+  },
+  "tfships:recipes/transportation/douglas_fir_galley": {
+    "criteria": {
+      "in_water": "2024-06-01 13:05:46 +0200"
+    },
+    "done": true
+  },
+  "tfships:recipes/transportation/aspen_galley": {
+    "criteria": {
+      "in_water": "2024-06-01 13:05:46 +0200"
+    },
+    "done": true
+  },
+  "smallships:recipes/transportation/spruce_galley": {
+    "criteria": {
+      "in_water": "2024-06-01 13:05:46 +0200"
+    },
+    "done": true
+  },
+  "tfships:recipes/transportation/blackwood_cog": {
+    "criteria": {
+      "in_water": "2024-06-01 13:05:46 +0200"
+    },
+    "done": true
+  },
+  "smallships:recipes/transportation/birch_cog": {
+    "criteria": {
+      "in_water": "2024-06-01 13:05:46 +0200"
+    },
+    "done": true
+  },
+  "tfships:recipes/transportation/willow_cog": {
+    "criteria": {
+      "in_water": "2024-06-01 13:05:46 +0200"
+    },
+    "done": true
+  },
+  "smallships:recipes/transportation/mangrove_drakkar": {
+    "criteria": {
+      "in_water": "2024-06-01 13:05:46 +0200"
+    },
+    "done": true
+  },
+  "tfships:recipes/transportation/chestnut_cog": {
+    "criteria": {
+      "in_water": "2024-06-01 13:05:46 +0200"
+    },
+    "done": true
+  },
+  "tfships:recipes/transportation/white_cedar_galley": {
+    "criteria": {
+      "in_water": "2024-06-01 13:05:46 +0200"
+    },
+    "done": true
+  },
+  "smallships:recipes/misc/sail": {
+    "criteria": {
+      "in_water": "2024-06-01 13:05:46 +0200"
+    },
+    "done": true
+  },
+  "tfships:recipes/transportation/kapok_brigg": {
+    "criteria": {
+      "in_water": "2024-06-01 13:05:46 +0200"
+    },
+    "done": true
+  },
+  "tfships:recipes/transportation/spruce_brigg": {
+    "criteria": {
+      "in_water": "2024-06-01 13:05:46 +0200"
+    },
+    "done": true
+  },
+  "tfships:recipes/transportation/mangrove_cog": {
+    "criteria": {
+      "in_water": "2024-06-01 13:05:46 +0200"
+    },
+    "done": true
+  },
+  "tfships:recipes/transportation/blackwood_galley": {
+    "criteria": {
+      "in_water": "2024-06-01 13:05:46 +0200"
+    },
+    "done": true
+  },
+  "smallships:recipes/transportation/acacia_galley": {
+    "criteria": {
+      "in_water": "2024-06-01 13:05:46 +0200"
+    },
+    "done": true
+  },
+  "tfships:recipes/transportation/douglas_fir_cog": {
+    "criteria": {
+      "in_water": "2024-06-01 13:05:46 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/acacia_boat": {
+    "criteria": {
+      "in_water": "2024-06-01 13:05:46 +0200"
+    },
+    "done": true
+  },
+  "tfships:recipes/transportation/sycamore_cog": {
+    "criteria": {
+      "in_water": "2024-06-01 13:05:46 +0200"
+    },
+    "done": true
+  },
+  "tfships:recipes/transportation/white_cedar_cog": {
+    "criteria": {
+      "in_water": "2024-06-01 13:05:46 +0200"
+    },
+    "done": true
+  },
+  "tfships:recipes/transportation/birch_brigg": {
+    "criteria": {
+      "in_water": "2024-06-01 13:05:46 +0200"
+    },
+    "done": true
+  },
+  "smallships:recipes/transportation/jungle_galley": {
+    "criteria": {
+      "in_water": "2024-06-01 13:05:46 +0200"
+    },
+    "done": true
+  },
+  "smallships:recipes/transportation/dark_oak_galley": {
+    "criteria": {
+      "in_water": "2024-06-01 13:05:46 +0200"
+    },
+    "done": true
+  },
+  "smallships:recipes/transportation/bamboo_brigg": {
+    "criteria": {
+      "in_water": "2024-06-01 13:05:46 +0200"
+    },
+    "done": true
+  },
+  "tfships:recipes/transportation/oak_galley": {
+    "criteria": {
+      "in_water": "2024-06-01 13:05:46 +0200"
+    },
+    "done": true
+  },
+  "smallships:recipes/transportation/spruce_drakkar": {
+    "criteria": {
+      "in_water": "2024-06-01 13:05:46 +0200"
+    },
+    "done": true
+  },
+  "tfships:recipes/transportation/chestnut_brigg": {
+    "criteria": {
+      "in_water": "2024-06-01 13:05:46 +0200"
+    },
+    "done": true
+  },
+  "tfships:recipes/transportation/rosewood_brigg": {
+    "criteria": {
+      "in_water": "2024-06-01 13:05:46 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/jungle_boat": {
+    "criteria": {
+      "in_water": "2024-06-01 13:05:46 +0200"
+    },
+    "done": true
+  },
+  "tfships:recipes/transportation/pine_galley": {
+    "criteria": {
+      "in_water": "2024-06-01 13:05:46 +0200"
+    },
+    "done": true
+  },
+  "tfships:recipes/transportation/oak_cog": {
+    "criteria": {
+      "in_water": "2024-06-01 13:05:46 +0200"
+    },
+    "done": true
+  },
+  "tfships:recipes/transportation/birch_galley": {
+    "criteria": {
+      "in_water": "2024-06-01 13:05:46 +0200"
+    },
+    "done": true
+  },
+  "tfships:recipes/transportation/maple_brigg": {
+    "criteria": {
+      "in_water": "2024-06-01 13:05:46 +0200"
+    },
+    "done": true
+  },
+  "tfships:recipes/transportation/bamboo_galley": {
+    "criteria": {
+      "in_water": "2024-06-01 13:05:46 +0200"
+    },
+    "done": true
+  },
+  "smallships:recipes/transportation/oak_brigg": {
+    "criteria": {
+      "in_water": "2024-06-01 13:05:46 +0200"
+    },
+    "done": true
+  },
+  "smallships:recipes/transportation/bamboo_cog": {
+    "criteria": {
+      "in_water": "2024-06-01 13:05:46 +0200"
+    },
+    "done": true
+  },
+  "tfships:recipes/transportation/ash_brigg": {
+    "criteria": {
+      "in_water": "2024-06-01 13:05:46 +0200"
+    },
+    "done": true
+  },
+  "tfships:recipes/transportation/rosewood_galley": {
+    "criteria": {
+      "in_water": "2024-06-01 13:05:46 +0200"
+    },
+    "done": true
+  },
+  "tfships:recipes/transportation/blackwood_brigg": {
+    "criteria": {
+      "in_water": "2024-06-01 13:05:46 +0200"
+    },
+    "done": true
+  },
+  "tfships:recipes/transportation/palm_galley": {
+    "criteria": {
+      "in_water": "2024-06-01 13:05:46 +0200"
+    },
+    "done": true
+  },
+  "tfships:recipes/transportation/sequoia_cog": {
+    "criteria": {
+      "in_water": "2024-06-01 13:05:46 +0200"
+    },
+    "done": true
+  },
+  "tfships:recipes/transportation/aspen_cog": {
+    "criteria": {
+      "in_water": "2024-06-01 13:05:46 +0200"
+    },
+    "done": true
+  },
+  "tfships:recipes/transportation/maple_galley": {
+    "criteria": {
+      "in_water": "2024-06-01 13:05:46 +0200"
+    },
+    "done": true
+  },
+  "smallships:recipes/transportation/oak_cog": {
+    "criteria": {
+      "in_water": "2024-06-01 13:05:46 +0200"
+    },
+    "done": true
+  },
+  "smallships:recipes/transportation/oak_galley": {
+    "criteria": {
+      "in_water": "2024-06-01 13:05:46 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/spruce_boat": {
+    "criteria": {
+      "in_water": "2024-06-01 13:05:46 +0200"
+    },
+    "done": true
+  },
+  "smallships:recipes/transportation/acacia_brigg": {
+    "criteria": {
+      "in_water": "2024-06-01 13:05:46 +0200"
+    },
+    "done": true
+  },
+  "tfships:recipes/transportation/chestnut_galley": {
+    "criteria": {
+      "in_water": "2024-06-01 13:05:46 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_boat": {
+    "criteria": {
+      "in_water": "2024-06-01 13:05:46 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_boat": {
+    "criteria": {
+      "in_water": "2024-06-01 13:05:46 +0200"
+    },
+    "done": true
+  },
+  "tfships:recipes/transportation/spruce_cog": {
+    "criteria": {
+      "in_water": "2024-06-01 13:05:46 +0200"
+    },
+    "done": true
+  },
+  "tfships:recipes/transportation/willow_brigg": {
+    "criteria": {
+      "in_water": "2024-06-01 13:05:46 +0200"
+    },
+    "done": true
+  },
+  "tfships:recipes/transportation/acacia_cog": {
+    "criteria": {
+      "in_water": "2024-06-01 13:05:46 +0200"
+    },
+    "done": true
+  },
+  "smallships:recipes/transportation/mangrove_galley": {
+    "criteria": {
+      "in_water": "2024-06-01 13:05:46 +0200"
+    },
+    "done": true
+  },
+  "smallships:recipes/transportation/dark_oak_cog": {
+    "criteria": {
+      "in_water": "2024-06-01 13:05:46 +0200"
+    },
+    "done": true
+  },
+  "smallships:recipes/transportation/birch_drakkar": {
+    "criteria": {
+      "in_water": "2024-06-01 13:05:46 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/mangrove_boat": {
+    "criteria": {
+      "in_water": "2024-06-01 13:05:46 +0200"
+    },
+    "done": true
+  },
+  "tfships:recipes/transportation/hickory_galley": {
+    "criteria": {
+      "in_water": "2024-06-01 13:05:46 +0200"
+    },
+    "done": true
+  },
+  "tfships:recipes/transportation/sequoia_brigg": {
+    "criteria": {
+      "in_water": "2024-06-01 13:05:46 +0200"
+    },
+    "done": true
+  },
+  "smallships:recipes/transportation/dark_oak_drakkar": {
+    "criteria": {
+      "in_water": "2024-06-01 13:05:46 +0200"
+    },
+    "done": true
+  },
+  "tfships:recipes/transportation/birch_cog": {
+    "criteria": {
+      "in_water": "2024-06-01 13:05:46 +0200"
+    },
+    "done": true
+  },
+  "smallships:recipes/transportation/jungle_drakkar": {
+    "criteria": {
+      "in_water": "2024-06-01 13:05:46 +0200"
+    },
+    "done": true
+  },
+  "tfships:recipes/transportation/acacia_brigg": {
+    "criteria": {
+      "in_water": "2024-06-01 13:05:46 +0200"
+    },
+    "done": true
+  },
+  "tfships:recipes/transportation/pine_cog": {
+    "criteria": {
+      "in_water": "2024-06-01 13:05:46 +0200"
+    },
+    "done": true
+  },
+  "tfships:recipes/transportation/hickory_brigg": {
+    "criteria": {
+      "in_water": "2024-06-01 13:05:46 +0200"
+    },
+    "done": true
+  },
+  "smallships:recipes/transportation/birch_brigg": {
+    "criteria": {
+      "in_water": "2024-06-01 13:05:46 +0200"
+    },
+    "done": true
+  },
+  "tfships:recipes/transportation/kapok_galley": {
+    "criteria": {
+      "in_water": "2024-06-01 13:05:46 +0200"
+    },
+    "done": true
+  },
+  "tfships:recipes/transportation/mangrove_brigg": {
+    "criteria": {
+      "in_water": "2024-06-01 13:05:46 +0200"
+    },
+    "done": true
+  },
+  "smallships:recipes/transportation/acacia_drakkar": {
+    "criteria": {
+      "in_water": "2024-06-01 13:05:46 +0200"
+    },
+    "done": true
+  },
+  "tfships:recipes/transportation/rosewood_cog": {
+    "criteria": {
+      "in_water": "2024-06-01 13:05:46 +0200"
+    },
+    "done": true
+  },
+  "tfships:recipes/transportation/hickory_cog": {
+    "criteria": {
+      "in_water": "2024-06-01 13:05:46 +0200"
+    },
+    "done": true
+  },
+  "smallships:recipes/transportation/cherry_galley": {
+    "criteria": {
+      "in_water": "2024-06-01 13:05:46 +0200"
+    },
+    "done": true
+  },
+  "tfships:recipes/transportation/pine_brigg": {
+    "criteria": {
+      "in_water": "2024-06-01 13:05:46 +0200"
+    },
+    "done": true
+  },
+  "smallships:recipes/transportation/cherry_brigg": {
+    "criteria": {
+      "in_water": "2024-06-01 13:05:46 +0200"
+    },
+    "done": true
+  },
+  "smallships:recipes/transportation/spruce_brigg": {
+    "criteria": {
+      "in_water": "2024-06-01 13:05:46 +0200"
+    },
+    "done": true
+  },
+  "tfships:recipes/transportation/palm_cog": {
+    "criteria": {
+      "in_water": "2024-06-01 13:05:46 +0200"
+    },
+    "done": true
+  },
+  "tfships:recipes/transportation/spruce_galley": {
+    "criteria": {
+      "in_water": "2024-06-01 13:05:46 +0200"
+    },
+    "done": true
+  },
+  "tfships:recipes/transportation/palm_brigg": {
+    "criteria": {
+      "in_water": "2024-06-01 13:05:46 +0200"
+    },
+    "done": true
+  },
+  "tfships:recipes/transportation/white_cedar_brigg": {
+    "criteria": {
+      "in_water": "2024-06-01 13:05:46 +0200"
+    },
+    "done": true
+  },
+  "tfships:recipes/transportation/ash_cog": {
+    "criteria": {
+      "in_water": "2024-06-01 13:05:46 +0200"
+    },
+    "done": true
+  },
+  "tfships:recipes/transportation/aspen_brigg": {
+    "criteria": {
+      "in_water": "2024-06-01 13:05:46 +0200"
+    },
+    "done": true
+  },
+  "smallships:recipes/transportation/mangrove_cog": {
+    "criteria": {
+      "in_water": "2024-06-01 13:05:46 +0200"
+    },
+    "done": true
+  },
+  "smallships:recipes/transportation/cherry_cog": {
+    "criteria": {
+      "in_water": "2024-06-01 13:05:46 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_boat": {
+    "criteria": {
+      "in_water": "2024-06-01 13:05:46 +0200"
+    },
+    "done": true
+  },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2024-06-01 13:06:14 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/cauldron": {
+    "criteria": {
+      "has_water_bucket": "2024-06-01 13:07:21 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/chest": {
+    "criteria": {
+      "has_lots_of_items": "2024-06-01 14:52:22 +0200"
+    },
+    "done": true
+  },
+  "tfc:crafting/firestarter": {
+    "criteria": {
+      "has_item": "2024-06-01 14:52:22 +0200"
+    },
+    "done": true
+  },
+  "tfc:crafting/wood/stick_from_twigs": {
+    "criteria": {
+      "has_item": "2024-06-01 14:52:22 +0200"
+    },
+    "done": true
+  },
+  "tfc:crafting/stick_bunch": {
+    "criteria": {
+      "has_item": "2024-06-01 14:52:22 +0200"
+    },
+    "done": true
+  },
+  "tfc:story/raw_stone": {
+    "criteria": {
+      "stone": "2024-06-01 15:26:07 +0200"
+    },
+    "done": true
+  },
+  "tfc:crafting/handstone": {
+    "criteria": {
+      "has_item": "2024-06-01 15:26:07 +0200"
+    },
+    "done": true
+  },
+  "DataVersion": 3465
+}
