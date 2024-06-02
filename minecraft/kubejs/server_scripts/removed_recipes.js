@@ -68,6 +68,9 @@ ServerEvents.recipes( event =>
 	event.remove({id: 'create:milling/wool'})
 	event.remove({id: 'create:crushing/wool'})
 	event.remove({id: 'tfc:scraping/paper'})
+	event.remove({id: 'create:crafting/appliances/copper_backtank'})
+	event.remove({id: 'create:crafting/appliances/copper_diving_helmet'})
+	event.remove({id: 'create:crafting/appliances/copper_diving_boots'})
 
 	event.remove({output: 'minecraft:gold_ingot'})
 	event.remove({output: 'minecraft:gold_nugget'})
@@ -80,4 +83,6 @@ ServerEvents.recipes( event =>
 	event.remove({output: 'create:brass_ingot'})
 	event.remove({output: 'create:brass_nugget'})
 	event.remove({output: 'create:experience_nugget'})
+
+
 })

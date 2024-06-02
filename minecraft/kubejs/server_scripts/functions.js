@@ -1,10 +1,13 @@
 
-/*const tfcCalendar = java('net.dries007.tfc.util.calendar.Calendars') //only works if kubejs/config/common.properties has disableClassFilter = true
+const tfcCalendar = Java.loadClass('net.dries007.tfc.util.calendar.Calendars') //only works if kubejs/config/common.properties has disableClassFilter = true
 
 
-onEvent('block.right_click', event=> 
-{
+BlockEvents.rightClicked(event => 
+    {
     //LIGHTING COAL FORGE
+
+
+
     if (event.block.id == 'minecraft:coal_block' && event.item == 'minecraft:flint_and_steel') {
 
         event.player.damageHeldItem("MAIN_HAND", 1)
@@ -13,17 +16,30 @@ onEvent('block.right_click', event=>
     }
 
     //LIGHTING VANILLA CANDLE WITH TFC TORCH
+
+
+
+
     if (event.block.hasTag('minecraft:candles') && event.item == 'tfc:torch'){
         event.cancel()
         event.block.set(event.block.id, {lit: 'true', candles: event.block.properties.candles})
     }
 
     // --DEPLOYER EVENTS BELOW--
+
+
+
+
     if (!event.player.isFake()){
         return
     }
 
+
+
+
     //LIGHTING TFC BLOCKS
+
+
     if (event.item == 'minecraft:flint_and_steel' || event.item == 'tfc:firestarter'){
 
         //LIGHTING CHARCOAL FORGE
@@ -68,4 +84,4 @@ onEvent('block.right_click', event=>
             event.block.set('tfc:bloomery', {lit: 'true', open: 'false', facing: event.block.properties.facing})
         }
     }
-})*/
+})

@@ -1,400 +1,1651 @@
 {
-  "tfc:crafting/stone/knife_metamorphic": {
+  "minecraft:recipes/decorations/crafting_table": {
     "criteria": {
-      "has_item": "2024-03-30 14:08:05 +0100"
-    },
-    "done": true
-  },
-  "tfc:crafting/rock/limestone_loose_rocks_to_cobble": {
-    "criteria": {
-      "has_item": "2024-03-30 14:23:05 +0100"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/wooden_axe": {
-    "criteria": {
-      "has_stick": "2024-03-30 14:11:13 +0100"
-    },
-    "done": true
-  },
-  "tfc:crafting/thatch": {
-    "criteria": {
-      "has_item": "2024-03-30 14:08:50 +0100"
+      "unlock_right_away": "2024-06-01 13:02:16 +0200"
     },
     "done": true
   },
   "tfc:story/root": {
     "criteria": {
-      "in_game_condition": "2024-03-29 20:56:01 +0100"
-    },
-    "done": true
-  },
-  "tfc:crafting/soil/loam_mud_7": {
-    "criteria": {
-      "has_item": "2024-03-30 14:09:02 +0100"
-    },
-    "done": true
-  },
-  "tfc:crafting/soil/loam_mud_8": {
-    "criteria": {
-      "has_item": "2024-03-30 14:09:02 +0100"
-    },
-    "done": true
-  },
-  "tfc:crafting/soil/loam_mud_5": {
-    "criteria": {
-      "has_item": "2024-03-30 14:09:02 +0100"
-    },
-    "done": true
-  },
-  "tfc:crafting/soil/loam_mud_6": {
-    "criteria": {
-      "has_item": "2024-03-30 14:09:02 +0100"
-    },
-    "done": true
-  },
-  "tfc:crafting/soil/loam_mud_3": {
-    "criteria": {
-      "has_item": "2024-03-30 14:09:02 +0100"
-    },
-    "done": true
-  },
-  "tfc:crafting/soil/loam_mud_4": {
-    "criteria": {
-      "has_item": "2024-03-30 14:09:02 +0100"
-    },
-    "done": true
-  },
-  "tfc:crafting/stone/shovel_metamorphic": {
-    "criteria": {
-      "has_item": "2024-03-30 14:11:11 +0100"
-    },
-    "done": true
-  },
-  "tfc:crafting/soil/loam_mud_1": {
-    "criteria": {
-      "has_item": "2024-03-30 14:09:02 +0100"
-    },
-    "done": true
-  },
-  "tfc:crafting/soil/loam_mud_2": {
-    "criteria": {
-      "has_item": "2024-03-30 14:09:02 +0100"
-    },
-    "done": true
-  },
-  "tfc:story/find_clay": {
-    "criteria": {
-      "clay_ball": "2024-03-30 14:14:07 +0100"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/campfire": {
-    "criteria": {
-      "has_stick": "2024-03-30 14:11:13 +0100"
-    },
-    "done": true
-  },
-  "tfc:crafting/vanilla/hay_bale": {
-    "criteria": {
-      "has_item": "2024-03-30 14:08:50 +0100"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/wooden_pickaxe": {
-    "criteria": {
-      "has_stick": "2024-03-30 14:11:13 +0100"
-    },
-    "done": true
-  },
-  "tfc:crafting/stick_bunch": {
-    "criteria": {
-      "has_item": "2024-03-30 14:06:37 +0100"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/ladder": {
-    "criteria": {
-      "has_stick": "2024-03-30 14:11:13 +0100"
-    },
-    "done": true
-  },
-  "tfc:crafting/rock/limestone_brick": {
-    "criteria": {
-      "has_item": "2024-03-30 14:23:05 +0100"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/chest": {
-    "criteria": {
-      "has_lots_of_items": "2024-03-30 14:08:54 +0100"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/birch_boat": {
-    "criteria": {
-      "in_water": "2024-03-30 14:09:27 +0100"
-    },
-    "done": true
-  },
-  "tfc:story/stone_age": {
-    "criteria": {
-      "stone_tools": "2024-03-30 14:07:01 +0100"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/wooden_shovel": {
-    "criteria": {
-      "has_stick": "2024-03-30 14:11:13 +0100"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/acacia_boat": {
-    "criteria": {
-      "in_water": "2024-03-30 14:09:27 +0100"
-    },
-    "done": true
-  },
-  "tfc:story/logging": {
-    "criteria": {
-      "logs": "2024-03-30 14:07:13 +0100"
-    },
-    "done": true
-  },
-  "tfc:crafting/wood/birch_lumber_log": {
-    "criteria": {
-      "has_item": "2024-03-30 14:17:10 +0100"
-    },
-    "done": true
-  },
-  "tfc:crafting/flux": {
-    "criteria": {
-      "has_item": "2024-03-30 14:23:05 +0100"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/jungle_boat": {
-    "criteria": {
-      "in_water": "2024-03-30 14:09:27 +0100"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/clay": {
-    "criteria": {
-      "has_clay_ball": "2024-03-30 14:14:07 +0100"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/spruce_boat": {
-    "criteria": {
-      "in_water": "2024-03-30 14:09:27 +0100"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/wooden_sword": {
-    "criteria": {
-      "has_stick": "2024-03-30 14:11:13 +0100"
-    },
-    "done": true
-  },
-  "tfc:crafting/rock/gneiss_loose_rocks_to_cobble": {
-    "criteria": {
-      "has_item": "2024-03-30 14:06:37 +0100"
-    },
-    "done": true
-  },
-  "tfc:crafting/stone/axe_metamorphic": {
-    "criteria": {
-      "has_item": "2024-03-30 14:07:01 +0100"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/dark_oak_boat": {
-    "criteria": {
-      "in_water": "2024-03-30 14:09:27 +0100"
-    },
-    "done": true
-  },
-  "tfc:crafting/soil/sandy_loam_mud_4": {
-    "criteria": {
-      "has_item": "2024-03-30 14:20:01 +0100"
-    },
-    "done": true
-  },
-  "tfc:crafting/soil/sandy_loam_mud_3": {
-    "criteria": {
-      "has_item": "2024-03-30 14:20:01 +0100"
-    },
-    "done": true
-  },
-  "tfc:crafting/soil/sandy_loam_mud_6": {
-    "criteria": {
-      "has_item": "2024-03-30 14:20:01 +0100"
-    },
-    "done": true
-  },
-  "tfc:crafting/soil/sandy_loam_mud_5": {
-    "criteria": {
-      "has_item": "2024-03-30 14:20:01 +0100"
-    },
-    "done": true
-  },
-  "tfc:story/get_straw": {
-    "criteria": {
-      "straw": "2024-03-30 14:08:50 +0100"
-    },
-    "done": true
-  },
-  "tfc:crafting/soil/sandy_loam_mud_2": {
-    "criteria": {
-      "has_item": "2024-03-30 14:20:01 +0100"
-    },
-    "done": true
-  },
-  "tfc:crafting/soil/sandy_loam_mud_1": {
-    "criteria": {
-      "has_item": "2024-03-30 14:20:01 +0100"
-    },
-    "done": true
-  },
-  "tfc:crafting/wood/chestnut_wood": {
-    "criteria": {
-      "has_item": "2024-03-30 14:07:13 +0100"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/wooden_hoe": {
-    "criteria": {
-      "has_stick": "2024-03-30 14:11:13 +0100"
-    },
-    "done": true
-  },
-  "tfc:crafting/wood/stick_from_twigs": {
-    "criteria": {
-      "has_item": "2024-03-30 14:06:37 +0100"
-    },
-    "done": true
-  },
-  "tfc:crafting/daub": {
-    "criteria": {
-      "has_item": "2024-03-30 14:08:50 +0100"
-    },
-    "done": true
-  },
-  "tfc:crafting/rock/gneiss_brick": {
-    "criteria": {
-      "has_item": "2024-03-30 14:06:37 +0100"
-    },
-    "done": true
-  },
-  "tfc:crafting/wood/chestnut_lumber_log": {
-    "criteria": {
-      "has_item": "2024-03-30 14:07:13 +0100"
-    },
-    "done": true
-  },
-  "tfc:story/pit_kiln": {
-    "criteria": {
-      "special_condition": "2024-03-30 14:27:25 +0100"
-    },
-    "done": true
-  },
-  "create:root": {
-    "criteria": {
-      "0": "2024-03-30 14:06:37 +0100"
-    },
-    "done": true
-  },
-  "tfc:story/knap_clay": {
-    "criteria": {
-      "unfired_pottery": "2024-03-30 14:14:16 +0100"
-    },
-    "done": true
-  },
-  "tfc:story/firestarter": {
-    "criteria": {
-      "firestarter": "2024-03-30 14:27:16 +0100"
-    },
-    "done": true
-  },
-  "tfc:story/find_rock": {
-    "criteria": {
-      "rock_knapping": "2024-03-30 14:06:37 +0100"
-    },
-    "done": true
-  },
-  "tfc:crafting/firestarter": {
-    "criteria": {
-      "has_item": "2024-03-30 14:06:37 +0100"
-    },
-    "done": true
-  },
-  "tfc:crafting/wood/birch_wood": {
-    "criteria": {
-      "has_item": "2024-03-30 14:17:10 +0100"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/oak_boat": {
-    "criteria": {
-      "in_water": "2024-03-30 14:09:27 +0100"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/crossbow": {
-    "criteria": {
-      "has_stick": "2024-03-30 14:11:13 +0100"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/soul_campfire": {
-    "criteria": {
-      "has_stick": "2024-03-30 14:11:13 +0100"
+      "in_game_condition": "2024-06-01 13:02:16 +0200"
     },
     "done": true
   },
   "tfc:world/root": {
     "criteria": {
-      "in_game_condition": "2024-03-29 20:56:01 +0100"
-    },
-    "done": true
-  },
-  "tfc:crafting/soil/sandy_loam_mud_8": {
-    "criteria": {
-      "has_item": "2024-03-30 14:20:01 +0100"
-    },
-    "done": true
-  },
-  "tfc:crafting/soil/sandy_loam_mud_7": {
-    "criteria": {
-      "has_item": "2024-03-30 14:20:01 +0100"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/brick": {
-    "criteria": {
-      "has_clay_ball": "2024-03-30 14:14:07 +0100"
-    },
-    "done": true
-  },
-  "tfc:crafting/wattle": {
-    "criteria": {
-      "has_item": "2024-03-30 14:07:13 +0100"
+      "in_game_condition": "2024-06-01 13:02:16 +0200"
     },
     "done": true
   },
   "tfc:world/adventuring_time": {
     "criteria": {
-      "rolling_hills": "2024-03-29 20:55:55 +0100",
-      "inverted_badlands": "2024-03-30 14:21:46 +0100",
-      "plains": "2024-03-30 14:09:49 +0100",
-      "plateau": "2024-03-30 14:18:30 +0100",
-      "badlands": "2024-03-30 14:21:05 +0100",
-      "hills": "2024-03-30 14:06:02 +0100",
-      "river": "2024-03-29 20:56:13 +0100",
-      "lake": "2024-03-30 14:09:25 +0100"
+      "mountains": "2024-06-01 13:05:47 +0200",
+      "rolling_hills": "2024-06-01 13:02:21 +0200",
+      "inverted_badlands": "2024-06-01 20:01:45 +0200",
+      "lowlands": "2024-06-01 20:05:03 +0200",
+      "plateau": "2024-06-01 16:25:07 +0200",
+      "shore": "2024-06-01 17:44:47 +0200",
+      "badlands": "2024-06-01 20:01:43 +0200",
+      "old_mountains": "2024-06-01 17:49:51 +0200",
+      "hills": "2024-06-01 20:03:09 +0200",
+      "river": "2024-06-01 13:05:41 +0200"
     },
     "done": false
   },
-  "DataVersion": 2975
+  "create:root": {
+    "criteria": {
+      "0": "2024-06-01 13:02:41 +0200"
+    },
+    "done": true
+  },
+  "tfc:crafting/wood/birch_trapped_chest": {
+    "criteria": {
+      "has_item": "2024-06-01 13:03:20 +0200"
+    },
+    "done": true
+  },
+  "tfc:world/metallurgist": {
+    "criteria": {
+      "copper": "2024-06-01 13:03:49 +0200",
+      "red_steel": "2024-06-01 17:38:26 +0200"
+    },
+    "done": false
+  },
+  "tfc:story/pickaxe": {
+    "criteria": {
+      "pickaxes": "2024-06-01 13:04:05 +0200"
+    },
+    "done": true
+  },
+  "tfc:story/copper_age": {
+    "criteria": {
+      "metal_item/copper_tools": "2024-06-01 13:04:05 +0200"
+    },
+    "done": true
+  },
+  "tfships:recipes/transportation/douglas_fir_brigg": {
+    "criteria": {
+      "in_water": "2024-06-01 13:05:46 +0200"
+    },
+    "done": true
+  },
+  "smallships:recipes/transportation/bamboo_galley": {
+    "criteria": {
+      "in_water": "2024-06-01 13:05:46 +0200"
+    },
+    "done": true
+  },
+  "smallships:recipes/transportation/spruce_cog": {
+    "criteria": {
+      "in_water": "2024-06-01 13:05:46 +0200"
+    },
+    "done": true
+  },
+  "smallships:recipes/transportation/acacia_cog": {
+    "criteria": {
+      "in_water": "2024-06-01 13:05:46 +0200"
+    },
+    "done": true
+  },
+  "tfships:recipes/transportation/mangrove_galley": {
+    "criteria": {
+      "in_water": "2024-06-01 13:05:46 +0200"
+    },
+    "done": true
+  },
+  "tfships:recipes/transportation/willow_galley": {
+    "criteria": {
+      "in_water": "2024-06-01 13:05:46 +0200"
+    },
+    "done": true
+  },
+  "tfships:recipes/transportation/maple_cog": {
+    "criteria": {
+      "in_water": "2024-06-01 13:05:46 +0200"
+    },
+    "done": true
+  },
+  "tfships:recipes/transportation/ash_galley": {
+    "criteria": {
+      "in_water": "2024-06-01 13:05:46 +0200"
+    },
+    "done": true
+  },
+  "tfships:recipes/transportation/oak_brigg": {
+    "criteria": {
+      "in_water": "2024-06-01 13:05:46 +0200"
+    },
+    "done": true
+  },
+  "tfships:recipes/transportation/sequoia_galley": {
+    "criteria": {
+      "in_water": "2024-06-01 13:05:46 +0200"
+    },
+    "done": true
+  },
+  "smallships:recipes/transportation/jungle_cog": {
+    "criteria": {
+      "in_water": "2024-06-01 13:05:46 +0200"
+    },
+    "done": true
+  },
+  "tfships:recipes/transportation/acacia_galley": {
+    "criteria": {
+      "in_water": "2024-06-01 13:05:46 +0200"
+    },
+    "done": true
+  },
+  "smallships:recipes/transportation/dark_oak_brigg": {
+    "criteria": {
+      "in_water": "2024-06-01 13:05:46 +0200"
+    },
+    "done": true
+  },
+  "smallships:recipes/transportation/birch_galley": {
+    "criteria": {
+      "in_water": "2024-06-01 13:05:46 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/cherry_boat": {
+    "criteria": {
+      "in_water": "2024-06-01 13:05:46 +0200"
+    },
+    "done": true
+  },
+  "tfships:recipes/transportation/sycamore_galley": {
+    "criteria": {
+      "in_water": "2024-06-01 13:05:46 +0200"
+    },
+    "done": true
+  },
+  "tfships:recipes/transportation/sycamore_brigg": {
+    "criteria": {
+      "in_water": "2024-06-01 13:05:46 +0200"
+    },
+    "done": true
+  },
+  "smallships:recipes/transportation/oak_drakkar": {
+    "criteria": {
+      "in_water": "2024-06-01 13:05:46 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/bamboo_raft": {
+    "criteria": {
+      "in_water": "2024-06-01 13:05:46 +0200"
+    },
+    "done": true
+  },
+  "smallships:recipes/transportation/mangrove_brigg": {
+    "criteria": {
+      "in_water": "2024-06-01 13:05:46 +0200"
+    },
+    "done": true
+  },
+  "smallships:recipes/transportation/jungle_brigg": {
+    "criteria": {
+      "in_water": "2024-06-01 13:05:46 +0200"
+    },
+    "done": true
+  },
+  "tfships:recipes/transportation/kapok_cog": {
+    "criteria": {
+      "in_water": "2024-06-01 13:05:46 +0200"
+    },
+    "done": true
+  },
+  "tfships:recipes/transportation/douglas_fir_galley": {
+    "criteria": {
+      "in_water": "2024-06-01 13:05:46 +0200"
+    },
+    "done": true
+  },
+  "tfships:recipes/transportation/aspen_galley": {
+    "criteria": {
+      "in_water": "2024-06-01 13:05:46 +0200"
+    },
+    "done": true
+  },
+  "smallships:recipes/transportation/spruce_galley": {
+    "criteria": {
+      "in_water": "2024-06-01 13:05:46 +0200"
+    },
+    "done": true
+  },
+  "tfships:recipes/transportation/blackwood_cog": {
+    "criteria": {
+      "in_water": "2024-06-01 13:05:46 +0200"
+    },
+    "done": true
+  },
+  "smallships:recipes/transportation/birch_cog": {
+    "criteria": {
+      "in_water": "2024-06-01 13:05:46 +0200"
+    },
+    "done": true
+  },
+  "tfships:recipes/transportation/willow_cog": {
+    "criteria": {
+      "in_water": "2024-06-01 13:05:46 +0200"
+    },
+    "done": true
+  },
+  "smallships:recipes/transportation/mangrove_drakkar": {
+    "criteria": {
+      "in_water": "2024-06-01 13:05:46 +0200"
+    },
+    "done": true
+  },
+  "tfships:recipes/transportation/chestnut_cog": {
+    "criteria": {
+      "in_water": "2024-06-01 13:05:46 +0200"
+    },
+    "done": true
+  },
+  "tfships:recipes/transportation/white_cedar_galley": {
+    "criteria": {
+      "in_water": "2024-06-01 13:05:46 +0200"
+    },
+    "done": true
+  },
+  "smallships:recipes/misc/sail": {
+    "criteria": {
+      "in_water": "2024-06-01 13:05:46 +0200"
+    },
+    "done": true
+  },
+  "tfships:recipes/transportation/kapok_brigg": {
+    "criteria": {
+      "in_water": "2024-06-01 13:05:46 +0200"
+    },
+    "done": true
+  },
+  "tfships:recipes/transportation/spruce_brigg": {
+    "criteria": {
+      "in_water": "2024-06-01 13:05:46 +0200"
+    },
+    "done": true
+  },
+  "tfships:recipes/transportation/mangrove_cog": {
+    "criteria": {
+      "in_water": "2024-06-01 13:05:46 +0200"
+    },
+    "done": true
+  },
+  "tfships:recipes/transportation/blackwood_galley": {
+    "criteria": {
+      "in_water": "2024-06-01 13:05:46 +0200"
+    },
+    "done": true
+  },
+  "smallships:recipes/transportation/acacia_galley": {
+    "criteria": {
+      "in_water": "2024-06-01 13:05:46 +0200"
+    },
+    "done": true
+  },
+  "tfships:recipes/transportation/douglas_fir_cog": {
+    "criteria": {
+      "in_water": "2024-06-01 13:05:46 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/acacia_boat": {
+    "criteria": {
+      "in_water": "2024-06-01 13:05:46 +0200"
+    },
+    "done": true
+  },
+  "tfships:recipes/transportation/sycamore_cog": {
+    "criteria": {
+      "in_water": "2024-06-01 13:05:46 +0200"
+    },
+    "done": true
+  },
+  "tfships:recipes/transportation/white_cedar_cog": {
+    "criteria": {
+      "in_water": "2024-06-01 13:05:46 +0200"
+    },
+    "done": true
+  },
+  "tfships:recipes/transportation/birch_brigg": {
+    "criteria": {
+      "in_water": "2024-06-01 13:05:46 +0200"
+    },
+    "done": true
+  },
+  "smallships:recipes/transportation/jungle_galley": {
+    "criteria": {
+      "in_water": "2024-06-01 13:05:46 +0200"
+    },
+    "done": true
+  },
+  "smallships:recipes/transportation/dark_oak_galley": {
+    "criteria": {
+      "in_water": "2024-06-01 13:05:46 +0200"
+    },
+    "done": true
+  },
+  "smallships:recipes/transportation/bamboo_brigg": {
+    "criteria": {
+      "in_water": "2024-06-01 13:05:46 +0200"
+    },
+    "done": true
+  },
+  "tfships:recipes/transportation/oak_galley": {
+    "criteria": {
+      "in_water": "2024-06-01 13:05:46 +0200"
+    },
+    "done": true
+  },
+  "smallships:recipes/transportation/spruce_drakkar": {
+    "criteria": {
+      "in_water": "2024-06-01 13:05:46 +0200"
+    },
+    "done": true
+  },
+  "tfships:recipes/transportation/chestnut_brigg": {
+    "criteria": {
+      "in_water": "2024-06-01 13:05:46 +0200"
+    },
+    "done": true
+  },
+  "tfships:recipes/transportation/rosewood_brigg": {
+    "criteria": {
+      "in_water": "2024-06-01 13:05:46 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/jungle_boat": {
+    "criteria": {
+      "in_water": "2024-06-01 13:05:46 +0200"
+    },
+    "done": true
+  },
+  "tfships:recipes/transportation/pine_galley": {
+    "criteria": {
+      "in_water": "2024-06-01 13:05:46 +0200"
+    },
+    "done": true
+  },
+  "tfships:recipes/transportation/oak_cog": {
+    "criteria": {
+      "in_water": "2024-06-01 13:05:46 +0200"
+    },
+    "done": true
+  },
+  "tfships:recipes/transportation/birch_galley": {
+    "criteria": {
+      "in_water": "2024-06-01 13:05:46 +0200"
+    },
+    "done": true
+  },
+  "tfships:recipes/transportation/maple_brigg": {
+    "criteria": {
+      "in_water": "2024-06-01 13:05:46 +0200"
+    },
+    "done": true
+  },
+  "tfships:recipes/transportation/bamboo_galley": {
+    "criteria": {
+      "in_water": "2024-06-01 13:05:46 +0200"
+    },
+    "done": true
+  },
+  "smallships:recipes/transportation/oak_brigg": {
+    "criteria": {
+      "in_water": "2024-06-01 13:05:46 +0200"
+    },
+    "done": true
+  },
+  "smallships:recipes/transportation/bamboo_cog": {
+    "criteria": {
+      "in_water": "2024-06-01 13:05:46 +0200"
+    },
+    "done": true
+  },
+  "tfships:recipes/transportation/ash_brigg": {
+    "criteria": {
+      "in_water": "2024-06-01 13:05:46 +0200"
+    },
+    "done": true
+  },
+  "tfships:recipes/transportation/rosewood_galley": {
+    "criteria": {
+      "in_water": "2024-06-01 13:05:46 +0200"
+    },
+    "done": true
+  },
+  "tfships:recipes/transportation/blackwood_brigg": {
+    "criteria": {
+      "in_water": "2024-06-01 13:05:46 +0200"
+    },
+    "done": true
+  },
+  "tfships:recipes/transportation/palm_galley": {
+    "criteria": {
+      "in_water": "2024-06-01 13:05:46 +0200"
+    },
+    "done": true
+  },
+  "tfships:recipes/transportation/sequoia_cog": {
+    "criteria": {
+      "in_water": "2024-06-01 13:05:46 +0200"
+    },
+    "done": true
+  },
+  "tfships:recipes/transportation/aspen_cog": {
+    "criteria": {
+      "in_water": "2024-06-01 13:05:46 +0200"
+    },
+    "done": true
+  },
+  "tfships:recipes/transportation/maple_galley": {
+    "criteria": {
+      "in_water": "2024-06-01 13:05:46 +0200"
+    },
+    "done": true
+  },
+  "smallships:recipes/transportation/oak_cog": {
+    "criteria": {
+      "in_water": "2024-06-01 13:05:46 +0200"
+    },
+    "done": true
+  },
+  "smallships:recipes/transportation/oak_galley": {
+    "criteria": {
+      "in_water": "2024-06-01 13:05:46 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/spruce_boat": {
+    "criteria": {
+      "in_water": "2024-06-01 13:05:46 +0200"
+    },
+    "done": true
+  },
+  "smallships:recipes/transportation/acacia_brigg": {
+    "criteria": {
+      "in_water": "2024-06-01 13:05:46 +0200"
+    },
+    "done": true
+  },
+  "tfships:recipes/transportation/chestnut_galley": {
+    "criteria": {
+      "in_water": "2024-06-01 13:05:46 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_boat": {
+    "criteria": {
+      "in_water": "2024-06-01 13:05:46 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_boat": {
+    "criteria": {
+      "in_water": "2024-06-01 13:05:46 +0200"
+    },
+    "done": true
+  },
+  "tfships:recipes/transportation/spruce_cog": {
+    "criteria": {
+      "in_water": "2024-06-01 13:05:46 +0200"
+    },
+    "done": true
+  },
+  "tfships:recipes/transportation/willow_brigg": {
+    "criteria": {
+      "in_water": "2024-06-01 13:05:46 +0200"
+    },
+    "done": true
+  },
+  "tfships:recipes/transportation/acacia_cog": {
+    "criteria": {
+      "in_water": "2024-06-01 13:05:46 +0200"
+    },
+    "done": true
+  },
+  "smallships:recipes/transportation/mangrove_galley": {
+    "criteria": {
+      "in_water": "2024-06-01 13:05:46 +0200"
+    },
+    "done": true
+  },
+  "smallships:recipes/transportation/dark_oak_cog": {
+    "criteria": {
+      "in_water": "2024-06-01 13:05:46 +0200"
+    },
+    "done": true
+  },
+  "smallships:recipes/transportation/birch_drakkar": {
+    "criteria": {
+      "in_water": "2024-06-01 13:05:46 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/mangrove_boat": {
+    "criteria": {
+      "in_water": "2024-06-01 13:05:46 +0200"
+    },
+    "done": true
+  },
+  "tfships:recipes/transportation/hickory_galley": {
+    "criteria": {
+      "in_water": "2024-06-01 13:05:46 +0200"
+    },
+    "done": true
+  },
+  "tfships:recipes/transportation/sequoia_brigg": {
+    "criteria": {
+      "in_water": "2024-06-01 13:05:46 +0200"
+    },
+    "done": true
+  },
+  "smallships:recipes/transportation/dark_oak_drakkar": {
+    "criteria": {
+      "in_water": "2024-06-01 13:05:46 +0200"
+    },
+    "done": true
+  },
+  "tfships:recipes/transportation/birch_cog": {
+    "criteria": {
+      "in_water": "2024-06-01 13:05:46 +0200"
+    },
+    "done": true
+  },
+  "smallships:recipes/transportation/jungle_drakkar": {
+    "criteria": {
+      "in_water": "2024-06-01 13:05:46 +0200"
+    },
+    "done": true
+  },
+  "tfships:recipes/transportation/acacia_brigg": {
+    "criteria": {
+      "in_water": "2024-06-01 13:05:46 +0200"
+    },
+    "done": true
+  },
+  "tfships:recipes/transportation/pine_cog": {
+    "criteria": {
+      "in_water": "2024-06-01 13:05:46 +0200"
+    },
+    "done": true
+  },
+  "tfships:recipes/transportation/hickory_brigg": {
+    "criteria": {
+      "in_water": "2024-06-01 13:05:46 +0200"
+    },
+    "done": true
+  },
+  "smallships:recipes/transportation/birch_brigg": {
+    "criteria": {
+      "in_water": "2024-06-01 13:05:46 +0200"
+    },
+    "done": true
+  },
+  "tfships:recipes/transportation/kapok_galley": {
+    "criteria": {
+      "in_water": "2024-06-01 13:05:46 +0200"
+    },
+    "done": true
+  },
+  "tfships:recipes/transportation/mangrove_brigg": {
+    "criteria": {
+      "in_water": "2024-06-01 13:05:46 +0200"
+    },
+    "done": true
+  },
+  "smallships:recipes/transportation/acacia_drakkar": {
+    "criteria": {
+      "in_water": "2024-06-01 13:05:46 +0200"
+    },
+    "done": true
+  },
+  "tfships:recipes/transportation/rosewood_cog": {
+    "criteria": {
+      "in_water": "2024-06-01 13:05:46 +0200"
+    },
+    "done": true
+  },
+  "tfships:recipes/transportation/hickory_cog": {
+    "criteria": {
+      "in_water": "2024-06-01 13:05:46 +0200"
+    },
+    "done": true
+  },
+  "smallships:recipes/transportation/cherry_galley": {
+    "criteria": {
+      "in_water": "2024-06-01 13:05:46 +0200"
+    },
+    "done": true
+  },
+  "tfships:recipes/transportation/pine_brigg": {
+    "criteria": {
+      "in_water": "2024-06-01 13:05:46 +0200"
+    },
+    "done": true
+  },
+  "smallships:recipes/transportation/cherry_brigg": {
+    "criteria": {
+      "in_water": "2024-06-01 13:05:46 +0200"
+    },
+    "done": true
+  },
+  "smallships:recipes/transportation/spruce_brigg": {
+    "criteria": {
+      "in_water": "2024-06-01 13:05:46 +0200"
+    },
+    "done": true
+  },
+  "tfships:recipes/transportation/palm_cog": {
+    "criteria": {
+      "in_water": "2024-06-01 13:05:46 +0200"
+    },
+    "done": true
+  },
+  "tfships:recipes/transportation/spruce_galley": {
+    "criteria": {
+      "in_water": "2024-06-01 13:05:46 +0200"
+    },
+    "done": true
+  },
+  "tfships:recipes/transportation/palm_brigg": {
+    "criteria": {
+      "in_water": "2024-06-01 13:05:46 +0200"
+    },
+    "done": true
+  },
+  "tfships:recipes/transportation/white_cedar_brigg": {
+    "criteria": {
+      "in_water": "2024-06-01 13:05:46 +0200"
+    },
+    "done": true
+  },
+  "tfships:recipes/transportation/ash_cog": {
+    "criteria": {
+      "in_water": "2024-06-01 13:05:46 +0200"
+    },
+    "done": true
+  },
+  "tfships:recipes/transportation/aspen_brigg": {
+    "criteria": {
+      "in_water": "2024-06-01 13:05:46 +0200"
+    },
+    "done": true
+  },
+  "smallships:recipes/transportation/mangrove_cog": {
+    "criteria": {
+      "in_water": "2024-06-01 13:05:46 +0200"
+    },
+    "done": true
+  },
+  "smallships:recipes/transportation/cherry_cog": {
+    "criteria": {
+      "in_water": "2024-06-01 13:05:46 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_boat": {
+    "criteria": {
+      "in_water": "2024-06-01 13:05:46 +0200"
+    },
+    "done": true
+  },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2024-06-01 13:06:14 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/cauldron": {
+    "criteria": {
+      "has_water_bucket": "2024-06-01 13:07:21 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/chest": {
+    "criteria": {
+      "has_lots_of_items": "2024-06-01 14:52:22 +0200"
+    },
+    "done": true
+  },
+  "tfc:crafting/firestarter": {
+    "criteria": {
+      "has_item": "2024-06-01 14:52:22 +0200"
+    },
+    "done": true
+  },
+  "tfc:crafting/wood/stick_from_twigs": {
+    "criteria": {
+      "has_item": "2024-06-01 14:52:22 +0200"
+    },
+    "done": true
+  },
+  "tfc:crafting/stick_bunch": {
+    "criteria": {
+      "has_item": "2024-06-01 14:52:22 +0200"
+    },
+    "done": true
+  },
+  "tfc:story/raw_stone": {
+    "criteria": {
+      "stone": "2024-06-01 15:26:07 +0200"
+    },
+    "done": true
+  },
+  "tfc:crafting/handstone": {
+    "criteria": {
+      "has_item": "2024-06-01 15:26:07 +0200"
+    },
+    "done": true
+  },
+  "tfc:story/find_rock": {
+    "criteria": {
+      "rock_knapping": "2024-06-01 16:27:43 +0200"
+    },
+    "done": true
+  },
+  "tfc:crafting/rock/shale_mossy_loose_rocks_to_cobble": {
+    "criteria": {
+      "has_item": "2024-06-01 16:27:43 +0200"
+    },
+    "done": true
+  },
+  "tfc:stonecutting/rock/shale_raw_slab": {
+    "criteria": {
+      "has_item": "2024-06-01 16:28:54 +0200"
+    },
+    "done": true
+  },
+  "tfc:crafting/rock/shale_smooth": {
+    "criteria": {
+      "has_item": "2024-06-01 16:28:54 +0200"
+    },
+    "done": true
+  },
+  "tfc:crafting/rock/shale_hardened": {
+    "criteria": {
+      "has_item": "2024-06-01 16:28:54 +0200"
+    },
+    "done": true
+  },
+  "tfc:stonecutting/rock/shale_raw_stairs": {
+    "criteria": {
+      "has_item": "2024-06-01 16:28:54 +0200"
+    },
+    "done": true
+  },
+  "tfc:crafting/rock/shale_raw_stairs": {
+    "criteria": {
+      "has_item": "2024-06-01 16:28:54 +0200"
+    },
+    "done": true
+  },
+  "tfc:crafting/rock/shale_raw_wall": {
+    "criteria": {
+      "has_item": "2024-06-01 16:28:54 +0200"
+    },
+    "done": true
+  },
+  "tfc:stonecutting/rock/shale_raw_wall": {
+    "criteria": {
+      "has_item": "2024-06-01 16:28:54 +0200"
+    },
+    "done": true
+  },
+  "tfc:crafting/rock/shale_raw_slab": {
+    "criteria": {
+      "has_item": "2024-06-01 16:28:54 +0200"
+    },
+    "done": true
+  },
+  "tfc:story/propick": {
+    "criteria": {
+      "propicks": "2024-06-01 17:38:26 +0200"
+    },
+    "done": true
+  },
+  "tfc:story/red_steel": {
+    "criteria": {
+      "metal_item/red_steel": "2024-06-01 17:38:26 +0200"
+    },
+    "done": true
+  },
+  "tfc:world/sylvite": {
+    "criteria": {
+      "ore/sylvite": "2024-06-01 17:49:31 +0200"
+    },
+    "done": true
+  },
+  "tfc:world/minerologist": {
+    "criteria": {
+      "sylvite": "2024-06-01 17:49:31 +0200"
+    },
+    "done": false
+  },
+  "create:recipes/combat/crafting/appliances/netherite_diving_helmet": {
+    "criteria": {
+      "has_item": "2024-06-01 20:07:06 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/combat/crafting/appliances/netherite_diving_boots": {
+    "criteria": {
+      "has_item": "2024-06-01 20:07:21 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/combat/crafting/appliances/netherite_backtank": {
+    "criteria": {
+      "has_item": "2024-06-01 20:08:14 +0200"
+    },
+    "done": true
+  },
+  "tfc:crafting/rock/dolomite_mossy_cobble_to_loose_rocks": {
+    "criteria": {
+      "has_item": "2024-06-01 22:30:40 +0200"
+    },
+    "done": true
+  },
+  "tfc:stonecutting/rock/dolomite_mossy_cobble_slab": {
+    "criteria": {
+      "has_item": "2024-06-01 22:30:40 +0200"
+    },
+    "done": true
+  },
+  "tfc:crafting/rock/dolomite_mossy_cobble_wall": {
+    "criteria": {
+      "has_item": "2024-06-01 22:30:40 +0200"
+    },
+    "done": true
+  },
+  "tfc:crafting/rock/dolomite_mossy_cobble_stairs": {
+    "criteria": {
+      "has_item": "2024-06-01 22:30:40 +0200"
+    },
+    "done": true
+  },
+  "tfc:stonecutting/rock/dolomite_mossy_cobble_wall": {
+    "criteria": {
+      "has_item": "2024-06-01 22:30:40 +0200"
+    },
+    "done": true
+  },
+  "tfc:crafting/rock/dolomite_mossy_cobble_slab": {
+    "criteria": {
+      "has_item": "2024-06-01 22:30:40 +0200"
+    },
+    "done": true
+  },
+  "tfc:stonecutting/rock/dolomite_mossy_cobble_stairs": {
+    "criteria": {
+      "has_item": "2024-06-01 22:30:40 +0200"
+    },
+    "done": true
+  },
+  "tfc:crafting/rock/claystone_cobble_slab": {
+    "criteria": {
+      "has_item": "2024-06-01 22:31:08 +0200"
+    },
+    "done": true
+  },
+  "tfc:stonecutting/rock/claystone_cobble_stairs": {
+    "criteria": {
+      "has_item": "2024-06-01 22:31:08 +0200"
+    },
+    "done": true
+  },
+  "tfc:stonecutting/rock/claystone_cobble_wall": {
+    "criteria": {
+      "has_item": "2024-06-01 22:31:08 +0200"
+    },
+    "done": true
+  },
+  "tfc:crafting/rock/claystone_cobble_stairs": {
+    "criteria": {
+      "has_item": "2024-06-01 22:31:08 +0200"
+    },
+    "done": true
+  },
+  "tfc:crafting/rock/claystone_cobble_to_loose_rocks": {
+    "criteria": {
+      "has_item": "2024-06-01 22:31:08 +0200"
+    },
+    "done": true
+  },
+  "tfc:crafting/rock/claystone_cobble_wall": {
+    "criteria": {
+      "has_item": "2024-06-01 22:31:08 +0200"
+    },
+    "done": true
+  },
+  "tfc:stonecutting/rock/claystone_cobble_slab": {
+    "criteria": {
+      "has_item": "2024-06-01 22:31:08 +0200"
+    },
+    "done": true
+  },
+  "tfc:story/bloomery": {
+    "criteria": {
+      "bloomery": "2024-06-01 22:32:22 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_bricks": {
+    "criteria": {
+      "has_stone": "2024-06-01 22:33:39 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_bricks_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2024-06-01 22:33:39 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_slab": {
+    "criteria": {
+      "has_stone": "2024-06-01 22:33:39 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_stairs_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2024-06-01 22:33:39 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/stone_button": {
+    "criteria": {
+      "has_stone": "2024-06-01 22:33:39 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/stone_pressure_plate": {
+    "criteria": {
+      "has_stone": "2024-06-01 22:33:39 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_stairs": {
+    "criteria": {
+      "has_stone": "2024-06-01 22:33:39 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/stonecutter": {
+    "criteria": {
+      "has_stone": "2024-06-01 22:33:39 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_stone": {
+    "criteria": {
+      "has_stone": "2024-06-01 22:33:39 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/stone_brick_walls_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2024-06-01 22:33:39 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2024-06-01 22:33:39 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2024-06-01 22:33:39 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_slab_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2024-06-01 22:33:39 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks_stone_from_stonecutting": {
+    "criteria": {
+      "has_stone": "2024-06-01 22:33:39 +0200"
+    },
+    "done": true
+  },
+  "tfc:story/charcoal": {
+    "criteria": {
+      "charcoal": "2024-06-01 22:37:21 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/campfire": {
+    "criteria": {
+      "has_coal": "2024-06-01 22:37:21 +0200"
+    },
+    "done": true
+  },
+  "tfc:story/firestarter": {
+    "criteria": {
+      "firestarter": "2024-06-01 22:38:07 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_stairs": {
+    "criteria": {
+      "has_stone_bricks": "2024-06-01 22:40:54 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_slab": {
+    "criteria": {
+      "has_stone_bricks": "2024-06-01 22:40:54 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2024-06-01 22:40:54 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/stone_brick_wall": {
+    "criteria": {
+      "has_stone_bricks": "2024-06-01 22:40:54 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cracked_stone_bricks": {
+    "criteria": {
+      "has_stone_bricks": "2024-06-01 22:40:54 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2024-06-01 22:40:54 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks": {
+    "criteria": {
+      "has_tag": "2024-06-01 22:40:54 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/stone_brick_wall_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2024-06-01 22:40:54 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2024-06-01 22:40:54 +0200"
+    },
+    "done": true
+  },
+  "tfc:stonecutting/rock/limestone_bricks_slab": {
+    "criteria": {
+      "has_item": "2024-06-01 22:41:25 +0200"
+    },
+    "done": true
+  },
+  "tfc:crafting/rock/limestone_bricks_stairs": {
+    "criteria": {
+      "has_item": "2024-06-01 22:41:25 +0200"
+    },
+    "done": true
+  },
+  "tfc:crafting/rock/limestone_cracked": {
+    "criteria": {
+      "has_item": "2024-06-01 22:41:25 +0200"
+    },
+    "done": true
+  },
+  "tfc:crafting/rock/limestone_bricks_slab": {
+    "criteria": {
+      "has_item": "2024-06-01 22:41:25 +0200"
+    },
+    "done": true
+  },
+  "tfc:stonecutting/rock/limestone_bricks_stairs": {
+    "criteria": {
+      "has_item": "2024-06-01 22:41:25 +0200"
+    },
+    "done": true
+  },
+  "tfc:stonecutting/rock/limestone_bricks_wall": {
+    "criteria": {
+      "has_item": "2024-06-01 22:41:25 +0200"
+    },
+    "done": true
+  },
+  "tfc:crafting/rock/limestone_bricks_wall": {
+    "criteria": {
+      "has_item": "2024-06-01 22:41:25 +0200"
+    },
+    "done": true
+  },
+  "tfc:stonecutting/rock/diorite_bricks_stairs": {
+    "criteria": {
+      "has_item": "2024-06-01 22:44:22 +0200"
+    },
+    "done": true
+  },
+  "tfc:stonecutting/rock/diorite_bricks_slab": {
+    "criteria": {
+      "has_item": "2024-06-01 22:44:22 +0200"
+    },
+    "done": true
+  },
+  "tfc:crafting/rock/diorite_bricks_wall": {
+    "criteria": {
+      "has_item": "2024-06-01 22:44:22 +0200"
+    },
+    "done": true
+  },
+  "tfc:crafting/rock/diorite_bricks_slab": {
+    "criteria": {
+      "has_item": "2024-06-01 22:44:22 +0200"
+    },
+    "done": true
+  },
+  "tfc:crafting/rock/diorite_cracked": {
+    "criteria": {
+      "has_item": "2024-06-01 22:44:22 +0200"
+    },
+    "done": true
+  },
+  "tfc:crafting/rock/diorite_bricks_stairs": {
+    "criteria": {
+      "has_item": "2024-06-01 22:44:22 +0200"
+    },
+    "done": true
+  },
+  "tfc:stonecutting/rock/diorite_bricks_wall": {
+    "criteria": {
+      "has_item": "2024-06-01 22:44:22 +0200"
+    },
+    "done": true
+  },
+  "tfc:story/barrel": {
+    "criteria": {
+      "barrels": "2024-06-01 23:38:33 +0200"
+    },
+    "done": true
+  },
+  "tfc:crafting/powderkeg_from_barrel": {
+    "criteria": {
+      "has_item": "2024-06-01 23:38:33 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/white_dye": {
+    "criteria": {
+      "has_bone_meal": "2024-06-01 23:38:50 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/appliances/tree_fertilizer": {
+    "criteria": {
+      "has_item": "2024-06-01 23:38:50 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bone_block": {
+    "criteria": {
+      "has_bone_meal": "2024-06-01 23:38:50 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_smoking": {
+    "criteria": {
+      "has_kelp": "2024-06-01 23:40:24 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_smelting": {
+    "criteria": {
+      "has_kelp": "2024-06-01 23:40:24 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_campfire_cooking": {
+    "criteria": {
+      "has_kelp": "2024-06-01 23:40:24 +0200"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_stone": {
+    "criteria": {
+      "get_stone": "2024-06-01 23:41:15 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/furnace": {
+    "criteria": {
+      "has_cobblestone": "2024-06-01 23:41:15 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobblestone_slab_from_cobblestone_stonecutting": {
+    "criteria": {
+      "has_cobblestone": "2024-06-01 23:41:15 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone": {
+    "criteria": {
+      "has_cobblestone": "2024-06-01 23:41:15 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_pickaxe": {
+    "criteria": {
+      "has_cobblestone": "2024-06-01 23:41:15 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobblestone_slab": {
+    "criteria": {
+      "has_cobblestone": "2024-06-01 23:41:15 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cobblestone_wall_from_cobblestone_stonecutting": {
+    "criteria": {
+      "has_cobblestone": "2024-06-01 23:41:15 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobblestone_stairs": {
+    "criteria": {
+      "has_cobblestone": "2024-06-01 23:41:15 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_shovel": {
+    "criteria": {
+      "has_cobblestone": "2024-06-01 23:41:15 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/lever": {
+    "criteria": {
+      "has_cobblestone": "2024-06-01 23:41:15 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/stone_sword": {
+    "criteria": {
+      "has_cobblestone": "2024-06-01 23:41:15 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cobblestone_wall": {
+    "criteria": {
+      "has_cobblestone": "2024-06-01 23:41:15 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_axe": {
+    "criteria": {
+      "has_cobblestone": "2024-06-01 23:41:15 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobblestone_stairs_from_cobblestone_stonecutting": {
+    "criteria": {
+      "has_cobblestone": "2024-06-01 23:41:15 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_hoe": {
+    "criteria": {
+      "has_cobblestone": "2024-06-01 23:41:15 +0200"
+    },
+    "done": true
+  },
+  "tfc:crafting/wattle": {
+    "criteria": {
+      "has_item": "2024-06-01 23:41:54 +0200"
+    },
+    "done": true
+  },
+  "tfc:story/logging": {
+    "criteria": {
+      "logs": "2024-06-01 23:41:54 +0200"
+    },
+    "done": true
+  },
+  "tfc:crafting/wood/ash_wood": {
+    "criteria": {
+      "has_item": "2024-06-01 23:41:54 +0200"
+    },
+    "done": true
+  },
+  "tfc:crafting/wood/ash_lumber_log": {
+    "criteria": {
+      "has_item": "2024-06-01 23:41:54 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/ladder": {
+    "criteria": {
+      "has_stick": "2024-06-01 23:41:59 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_axe": {
+    "criteria": {
+      "has_stick": "2024-06-01 23:41:59 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_hoe": {
+    "criteria": {
+      "has_stick": "2024-06-01 23:41:59 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_shovel": {
+    "criteria": {
+      "has_stick": "2024-06-01 23:41:59 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/wooden_sword": {
+    "criteria": {
+      "has_stick": "2024-06-01 23:41:59 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_pickaxe": {
+    "criteria": {
+      "has_stick": "2024-06-01 23:41:59 +0200"
+    },
+    "done": true
+  },
+  "tfc:story/firepit": {
+    "criteria": {
+      "special_condition": "2024-06-01 23:42:10 +0200"
+    },
+    "done": true
+  },
+  "tfc:story/sheet": {
+    "criteria": {
+      "sheets": "2024-06-02 08:34:07 +0200"
+    },
+    "done": true
+  },
+  "tfc:crafting/vanilla/spyglass": {
+    "criteria": {
+      "has_item": "2024-06-02 08:34:07 +0200"
+    },
+    "done": true
+  },
+  "tfc:story/glass_colors": {
+    "criteria": {
+      "tinted_glass": "2024-06-02 08:34:44 +0200"
+    },
+    "done": false
+  },
+  "create:recipes/misc/crafting/kinetics/chute": {
+    "criteria": {
+      "has_item": "2024-06-02 08:36:08 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/wrench": {
+    "criteria": {
+      "has_item": "2024-06-02 08:36:08 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/gantry_shaft": {
+    "criteria": {
+      "has_item": "2024-06-02 08:36:08 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/rope_pulley": {
+    "criteria": {
+      "has_item": "2024-06-02 08:36:08 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/water_wheel": {
+    "criteria": {
+      "has_item": "2024-06-02 08:36:08 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/large_cogwheel_from_little": {
+    "criteria": {
+      "has_item": "2024-06-02 08:36:08 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/materials/andesite_alloy_block": {
+    "criteria": {
+      "has_item": "2024-06-02 08:36:08 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/wooden_bracket": {
+    "criteria": {
+      "has_item": "2024-06-02 08:36:08 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/belt_connector": {
+    "criteria": {
+      "has_item": "2024-06-02 08:36:08 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/curiosities/minecart_coupling": {
+    "criteria": {
+      "has_item": "2024-06-02 08:36:08 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/metal_girder": {
+    "criteria": {
+      "has_item": "2024-06-02 08:36:08 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/shaft": {
+    "criteria": {
+      "has_item": "2024-06-02 08:36:08 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/hand_crank": {
+    "criteria": {
+      "has_item": "2024-06-02 08:36:08 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/turntable": {
+    "criteria": {
+      "has_item": "2024-06-02 08:36:08 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/decorations/andesite_bars_from_andesite_alloy_stonecutting": {
+    "criteria": {
+      "has_andesite_alloy": "2024-06-02 08:36:08 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/sticker": {
+    "criteria": {
+      "has_item": "2024-06-02 08:36:08 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/radial_chassis": {
+    "criteria": {
+      "has_item": "2024-06-02 08:36:08 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/sticky_mechanical_piston": {
+    "criteria": {
+      "has_item": "2024-06-02 08:36:08 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/goggles": {
+    "criteria": {
+      "has_item": "2024-06-02 08:36:08 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/materials/andesite_alloy_from_block": {
+    "criteria": {
+      "has_item": "2024-06-02 08:36:08 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/display_board": {
+    "criteria": {
+      "has_item": "2024-06-02 08:36:08 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/piston_extension_pole": {
+    "criteria": {
+      "has_item": "2024-06-02 08:36:08 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/decorations/andesite_scaffolding_from_andesite_alloy_stonecutting": {
+    "criteria": {
+      "has_andesite_alloy": "2024-06-02 08:36:08 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/speedometer": {
+    "criteria": {
+      "has_item": "2024-06-02 08:36:08 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/cuckoo_clock": {
+    "criteria": {
+      "has_item": "2024-06-02 08:36:08 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/analog_lever": {
+    "criteria": {
+      "has_item": "2024-06-02 08:36:08 +0200"
+    },
+    "done": true
+  },
+  "create:andesite_alloy": {
+    "criteria": {
+      "0": "2024-06-02 08:36:08 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/cart_assembler": {
+    "criteria": {
+      "has_item": "2024-06-02 08:36:08 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/filter": {
+    "criteria": {
+      "has_item": "2024-06-02 08:36:08 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/white_sail": {
+    "criteria": {
+      "has_item": "2024-06-02 08:36:08 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/appliances/clipboard": {
+    "criteria": {
+      "has_item": "2024-06-02 08:36:08 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/linear_chassis": {
+    "criteria": {
+      "has_item": "2024-06-02 08:36:08 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/logistics/andesite_tunnel": {
+    "criteria": {
+      "has_item": "2024-06-02 08:36:08 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/windmill_bearing": {
+    "criteria": {
+      "has_item": "2024-06-02 08:36:08 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/basin": {
+    "criteria": {
+      "has_item": "2024-06-02 08:36:08 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/large_cogwheel": {
+    "criteria": {
+      "has_item": "2024-06-02 08:36:08 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/logistics/andesite_funnel": {
+    "criteria": {
+      "has_item": "2024-06-02 08:36:08 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/mechanical_mixer": {
+    "criteria": {
+      "has_item": "2024-06-02 08:36:08 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/decorations/andesite_ladder_from_andesite_alloy_stonecutting": {
+    "criteria": {
+      "has_andesite_alloy": "2024-06-02 08:36:08 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/cogwheel": {
+    "criteria": {
+      "has_item": "2024-06-02 08:36:08 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/contraption_controls": {
+    "criteria": {
+      "has_item": "2024-06-02 08:36:08 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/metal_bracket": {
+    "criteria": {
+      "has_item": "2024-06-02 08:36:08 +0200"
+    },
+    "done": true
+  },
+  "DataVersion": 3465
 }

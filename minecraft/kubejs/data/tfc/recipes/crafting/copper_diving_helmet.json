@@ -1,0 +1,21 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+      "XYX",
+      "XZX"
+    ],
+    "key": {
+      "X": {
+        "item": "tfc:metal/sheet/copper"
+      },
+      "Y": {
+        "item": "tfc:metal/unfinished_helmet/copper"
+      },
+      "Z": {
+        "item": "minecraft:tinted_glass"
+      }
+    },
+    "result": {
+      "item": "create:copper_diving_helmet"
+    }
+}

@@ -21,12 +21,12 @@ Note: Even if no fields are listed above, some methods are still available as fi
 | Name | Parameters | Return type | Static? |
 | ---- | ---------- | ----------- | ------- |
 | getSource |  |  | DamageSource | ✘ |
+| getLootingLevel |  |  | int | ✘ |
+| isRecentlyHit |  |  | boolean | ✘ |
+| addDrop | ItemStack |  | ItemEntity | ✘ |
+| addDrop | ItemStack, float |  | ItemEntity | ✘ |
 | getEntity |  |  | Entity | ✘ |
 | getDrops |  |  | List<ItemEntity> | ✘ |
-| isRecentlyHit |  |  | boolean | ✘ |
-| addDrop | ItemStack, float |  | ItemEntity | ✘ |
-| addDrop | ItemStack |  | ItemEntity | ✘ |
-| getLootingLevel |  |  | int | ✘ |
 | getLevel |  |  | Level | ✘ |
 | getPlayer |  |  | Player | ✘ |
 | getServer |  |  | MinecraftServer | ✘ |

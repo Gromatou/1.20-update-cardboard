@@ -1,0 +1,533 @@
+{
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "unlock_right_away": "2024-05-31 21:12:07 +0200"
+    },
+    "done": true
+  },
+  "tfc:story/root": {
+    "criteria": {
+      "in_game_condition": "2024-05-31 21:12:07 +0200"
+    },
+    "done": true
+  },
+  "tfc:world/root": {
+    "criteria": {
+      "in_game_condition": "2024-05-31 21:12:07 +0200"
+    },
+    "done": true
+  },
+  "tfc:world/adventuring_time": {
+    "criteria": {
+      "mountains": "2024-05-31 21:17:57 +0200",
+      "rolling_hills": "2024-05-31 21:18:46 +0200",
+      "river": "2024-05-31 21:17:47 +0200"
+    },
+    "done": false
+  },
+  "create:recipes/misc/crafting/kinetics/chute": {
+    "criteria": {
+      "has_item": "2024-06-02 09:52:37 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/combat/crafting/appliances/netherite_diving_boots": {
+    "criteria": {
+      "has_item": "2024-06-02 09:52:37 +0200"
+    },
+    "done": true
+  },
+  "tfc:story/raw_stone": {
+    "criteria": {
+      "stone": "2024-06-02 09:52:37 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/wrench": {
+    "criteria": {
+      "has_item": "2024-06-02 09:52:37 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/gantry_shaft": {
+    "criteria": {
+      "has_item": "2024-06-02 09:52:37 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/rope_pulley": {
+    "criteria": {
+      "has_item": "2024-06-02 09:52:37 +0200"
+    },
+    "done": true
+  },
+  "tfc:story/sheet": {
+    "criteria": {
+      "sheets": "2024-06-02 09:52:37 +0200"
+    },
+    "done": true
+  },
+  "tfc:story/glass_colors": {
+    "criteria": {
+      "tinted_glass": "2024-06-02 09:52:37 +0200"
+    },
+    "done": false
+  },
+  "create:root": {
+    "criteria": {
+      "0": "2024-06-02 09:52:37 +0200"
+    },
+    "done": true
+  },
+  "tfc:story/find_rock": {
+    "criteria": {
+      "rock_knapping": "2024-06-02 09:52:37 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/water_wheel": {
+    "criteria": {
+      "has_item": "2024-06-02 09:52:37 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/large_cogwheel_from_little": {
+    "criteria": {
+      "has_item": "2024-06-02 09:52:37 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/chest": {
+    "criteria": {
+      "has_lots_of_items": "2024-06-02 09:52:37 +0200"
+    },
+    "done": true
+  },
+  "tfc:story/bloomery": {
+    "criteria": {
+      "bloomery": "2024-06-02 09:52:37 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/materials/andesite_alloy_block": {
+    "criteria": {
+      "has_item": "2024-06-02 09:52:37 +0200"
+    },
+    "done": true
+  },
+  "tfc:story/barrel": {
+    "criteria": {
+      "barrels": "2024-06-02 09:52:37 +0200"
+    },
+    "done": true
+  },
+  "tfc:crafting/rock/dolomite_mossy_cobble_to_loose_rocks": {
+    "criteria": {
+      "has_item": "2024-06-02 09:52:37 +0200"
+    },
+    "done": true
+  },
+  "tfc:story/charcoal": {
+    "criteria": {
+      "charcoal": "2024-06-02 09:52:37 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/wooden_bracket": {
+    "criteria": {
+      "has_item": "2024-06-02 09:52:37 +0200"
+    },
+    "done": true
+  },
+  "tfc:crafting/rock/shale_mossy_loose_rocks_to_cobble": {
+    "criteria": {
+      "has_item": "2024-06-02 09:52:37 +0200"
+    },
+    "done": true
+  },
+  "tfc:stonecutting/rock/dolomite_mossy_cobble_slab": {
+    "criteria": {
+      "has_item": "2024-06-02 09:52:37 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/belt_connector": {
+    "criteria": {
+      "has_item": "2024-06-02 09:52:37 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_smoking": {
+    "criteria": {
+      "has_kelp": "2024-06-02 09:52:37 +0200"
+    },
+    "done": true
+  },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2024-06-02 09:52:37 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/curiosities/minecart_coupling": {
+    "criteria": {
+      "has_item": "2024-06-02 09:52:37 +0200"
+    },
+    "done": true
+  },
+  "tfc:crafting/rock/dolomite_mossy_cobble_wall": {
+    "criteria": {
+      "has_item": "2024-06-02 09:52:37 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/combat/crafting/appliances/netherite_backtank": {
+    "criteria": {
+      "has_item": "2024-06-02 09:52:37 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/campfire": {
+    "criteria": {
+      "has_coal": "2024-06-02 09:52:37 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/metal_girder": {
+    "criteria": {
+      "has_item": "2024-06-02 09:52:37 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/shaft": {
+    "criteria": {
+      "has_item": "2024-06-02 09:52:37 +0200"
+    },
+    "done": true
+  },
+  "tfc:crafting/vanilla/spyglass": {
+    "criteria": {
+      "has_item": "2024-06-02 09:52:37 +0200"
+    },
+    "done": true
+  },
+  "tfc:crafting/rock/dolomite_mossy_cobble_stairs": {
+    "criteria": {
+      "has_item": "2024-06-02 09:52:37 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/hand_crank": {
+    "criteria": {
+      "has_item": "2024-06-02 09:52:37 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/turntable": {
+    "criteria": {
+      "has_item": "2024-06-02 09:52:37 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/cauldron": {
+    "criteria": {
+      "has_water_bucket": "2024-06-02 09:52:37 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/decorations/andesite_bars_from_andesite_alloy_stonecutting": {
+    "criteria": {
+      "has_andesite_alloy": "2024-06-02 09:52:37 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/sticker": {
+    "criteria": {
+      "has_item": "2024-06-02 09:52:37 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/radial_chassis": {
+    "criteria": {
+      "has_item": "2024-06-02 09:52:37 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/sticky_mechanical_piston": {
+    "criteria": {
+      "has_item": "2024-06-02 09:52:37 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/goggles": {
+    "criteria": {
+      "has_item": "2024-06-02 09:52:37 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/materials/andesite_alloy_from_block": {
+    "criteria": {
+      "has_item": "2024-06-02 09:52:37 +0200"
+    },
+    "done": true
+  },
+  "tfc:stonecutting/rock/dolomite_mossy_cobble_wall": {
+    "criteria": {
+      "has_item": "2024-06-02 09:52:37 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/display_board": {
+    "criteria": {
+      "has_item": "2024-06-02 09:52:37 +0200"
+    },
+    "done": true
+  },
+  "tfc:crafting/firestarter": {
+    "criteria": {
+      "has_item": "2024-06-02 09:52:37 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/piston_extension_pole": {
+    "criteria": {
+      "has_item": "2024-06-02 09:52:37 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/decorations/andesite_scaffolding_from_andesite_alloy_stonecutting": {
+    "criteria": {
+      "has_andesite_alloy": "2024-06-02 09:52:37 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/speedometer": {
+    "criteria": {
+      "has_item": "2024-06-02 09:52:37 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_smelting": {
+    "criteria": {
+      "has_kelp": "2024-06-02 09:52:37 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/cuckoo_clock": {
+    "criteria": {
+      "has_item": "2024-06-02 09:52:37 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/analog_lever": {
+    "criteria": {
+      "has_item": "2024-06-02 09:52:37 +0200"
+    },
+    "done": true
+  },
+  "create:andesite_alloy": {
+    "criteria": {
+      "0": "2024-06-02 09:52:37 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/cart_assembler": {
+    "criteria": {
+      "has_item": "2024-06-02 09:52:37 +0200"
+    },
+    "done": true
+  },
+  "tfc:crafting/handstone": {
+    "criteria": {
+      "has_item": "2024-06-02 09:52:37 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_campfire_cooking": {
+    "criteria": {
+      "has_kelp": "2024-06-02 09:52:37 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/filter": {
+    "criteria": {
+      "has_item": "2024-06-02 09:52:37 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/white_sail": {
+    "criteria": {
+      "has_item": "2024-06-02 09:52:37 +0200"
+    },
+    "done": true
+  },
+  "tfc:crafting/rock/dolomite_mossy_cobble_slab": {
+    "criteria": {
+      "has_item": "2024-06-02 09:52:37 +0200"
+    },
+    "done": true
+  },
+  "tfc:world/sylvite": {
+    "criteria": {
+      "ore/sylvite": "2024-06-02 09:52:37 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/appliances/clipboard": {
+    "criteria": {
+      "has_item": "2024-06-02 09:52:37 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/linear_chassis": {
+    "criteria": {
+      "has_item": "2024-06-02 09:52:37 +0200"
+    },
+    "done": true
+  },
+  "tfc:stonecutting/rock/dolomite_mossy_cobble_stairs": {
+    "criteria": {
+      "has_item": "2024-06-02 09:52:37 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/logistics/andesite_tunnel": {
+    "criteria": {
+      "has_item": "2024-06-02 09:52:37 +0200"
+    },
+    "done": true
+  },
+  "tfc:crafting/wood/stick_from_twigs": {
+    "criteria": {
+      "has_item": "2024-06-02 09:52:37 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/windmill_bearing": {
+    "criteria": {
+      "has_item": "2024-06-02 09:52:37 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/basin": {
+    "criteria": {
+      "has_item": "2024-06-02 09:52:37 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/large_cogwheel": {
+    "criteria": {
+      "has_item": "2024-06-02 09:52:37 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/logistics/andesite_funnel": {
+    "criteria": {
+      "has_item": "2024-06-02 09:52:37 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/mechanical_mixer": {
+    "criteria": {
+      "has_item": "2024-06-02 09:52:37 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/decorations/andesite_ladder_from_andesite_alloy_stonecutting": {
+    "criteria": {
+      "has_andesite_alloy": "2024-06-02 09:52:37 +0200"
+    },
+    "done": true
+  },
+  "tfc:world/metallurgist": {
+    "criteria": {
+      "copper": "2024-06-02 09:52:37 +0200"
+    },
+    "done": false
+  },
+  "tfc:crafting/stick_bunch": {
+    "criteria": {
+      "has_item": "2024-06-02 09:52:37 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/cogwheel": {
+    "criteria": {
+      "has_item": "2024-06-02 09:52:37 +0200"
+    },
+    "done": true
+  },
+  "tfc:crafting/powderkeg_from_barrel": {
+    "criteria": {
+      "has_item": "2024-06-02 09:52:37 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/contraption_controls": {
+    "criteria": {
+      "has_item": "2024-06-02 09:52:37 +0200"
+    },
+    "done": true
+  },
+  "tfc:world/minerologist": {
+    "criteria": {
+      "sylvite": "2024-06-02 09:52:37 +0200"
+    },
+    "done": false
+  },
+  "create:recipes/combat/crafting/appliances/netherite_diving_helmet": {
+    "criteria": {
+      "has_item": "2024-06-02 09:52:37 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/metal_bracket": {
+    "criteria": {
+      "has_item": "2024-06-02 09:52:37 +0200"
+    },
+    "done": true
+  },
+  "tfc:stonecutting/rock/diorite_bricks_stairs": {
+    "criteria": {
+      "has_item": "2024-06-02 10:27:24 +0200"
+    },
+    "done": true
+  },
+  "tfc:stonecutting/rock/diorite_bricks_slab": {
+    "criteria": {
+      "has_item": "2024-06-02 10:27:24 +0200"
+    },
+    "done": true
+  },
+  "tfc:crafting/rock/diorite_bricks_wall": {
+    "criteria": {
+      "has_item": "2024-06-02 10:27:24 +0200"
+    },
+    "done": true
+  },
+  "tfc:crafting/rock/diorite_bricks_slab": {
+    "criteria": {
+      "has_item": "2024-06-02 10:27:24 +0200"
+    },
+    "done": true
+  },
+  "tfc:crafting/rock/diorite_cracked": {
+    "criteria": {
+      "has_item": "2024-06-02 10:27:24 +0200"
+    },
+    "done": true
+  },
+  "tfc:crafting/rock/diorite_bricks_stairs": {
+    "criteria": {
+      "has_item": "2024-06-02 10:27:24 +0200"
+    },
+    "done": true
+  },
+  "tfc:stonecutting/rock/diorite_bricks_wall": {
+    "criteria": {
+      "has_item": "2024-06-02 10:27:24 +0200"
+    },
+    "done": true
+  },
+  "DataVersion": 3465
+}
