@@ -27,10 +27,10 @@ Note: Even if no fields are listed above, some methods are still available as fi
 | ---- | ---------- | ----------- | ------- |
 | getBlock |  |  | BlockContainerJS | ✘ |
 | getInventory |  |  | Container | ✘ |
-| getEntity |  |  | LivingEntity | ✘ |
 | getInventoryContainer |  |  | AbstractContainerMenu | ✘ |
-| hasGameStage | String |  | boolean | ✘ |
+| getEntity |  |  | Player | ✘ |
 | addGameStage | String |  | void | ✘ |
+| hasGameStage | String |  | boolean | ✘ |
 | removeGameStage | String |  | void | ✘ |
 | getPlayer |  |  | Player | ✘ |
 | getLevel |  |  | Level | ✘ |
@@ -55,23 +55,14 @@ Gets the chest block.
 Gets the chest inventory.
 ```
 
-- `LivingEntity getEntity()`
-```
-Gets the player that opened or closed the container.
-```
-
 - `AbstractContainerMenu getInventoryContainer()`
 ```
 Gets the container that was opened or closed.
 ```
 
-- `boolean hasGameStage(String var0)`
-
-  Parameters:
-  - var0: String
-
+- `Player getEntity()`
 ```
-Checks if the player has the specified game stage
+Gets the player that opened or closed the container.
 ```
 
 - `void addGameStage(String var0)`
@@ -81,6 +72,15 @@ Checks if the player has the specified game stage
 
 ```
 Adds the specified game stage to the player
+```
+
+- `boolean hasGameStage(String var0)`
+
+  Parameters:
+  - var0: String
+
+```
+Checks if the player has the specified game stage
 ```
 
 - `void removeGameStage(String var0)`

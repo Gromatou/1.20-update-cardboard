@@ -1,0 +1,21 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+      "Y Y",
+      "XZX"
+    ],
+    "key": {
+      "X": {
+        "item": "create:andesite_alloy"
+      },
+      "Y": {
+        "item": "tfc:metal/sheet/copper"
+      },
+      "Z": {
+        "item": "tfc:metal/unfinished_boots/copper"
+      }
+    },
+    "result": {
+      "item": "create:copper_diving_boots"
+    }
+}

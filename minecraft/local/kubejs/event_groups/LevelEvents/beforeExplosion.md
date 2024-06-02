@@ -29,8 +29,8 @@ Note: Even if no fields are listed above, some methods are still available as fi
 | getPosition |  |  | Vec3 | ✘ |
 | getBlock |  |  | BlockContainerJS | ✘ |
 | getY |  |  | double | ✘ |
-| getX |  |  | double | ✘ |
 | getZ |  |  | double | ✘ |
+| getX |  |  | double | ✘ |
 | getExploder |  |  | LivingEntity | ✘ |
 | getServer |  |  | MinecraftServer | ✘ |
 | exit | Object |  | Object | ✘ |

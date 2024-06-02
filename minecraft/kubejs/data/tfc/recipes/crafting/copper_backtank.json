@@ -1,0 +1,28 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+      "WZW",
+      "XYX",
+      "XVX"
+    ],
+    "key": {
+      "X": {
+        "item": "tfc:metal/sheet/copper"
+      },
+      "Y": {
+        "item": "tfc:metal/unfinished_chestplate/copper"
+      },
+      "Z": {
+        "item": "create:shaft"
+      },
+      "V": {
+        "item": "tfc:bellows"
+      },      
+      "W": {
+        "item": "create:andesite_alloy"
+      }
+    },
+    "result": {
+      "item": "create:copper_backtank"
+    }
+}

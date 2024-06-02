@@ -25,11 +25,11 @@ Note: Even if no fields are listed above, some methods are still available as fi
 
 | Name | Parameters | Return type | Static? |
 | ---- | ---------- | ----------- | ------- |
-| getKeepData |  |  | boolean | ✘ |
-| getEntity |  |  | LivingEntity | ✘ |
 | getOldPlayer |  |  | ServerPlayer | ✘ |
-| hasGameStage | String |  | boolean | ✘ |
+| getEntity |  |  | LivingEntity | ✘ |
+| getKeepData |  |  | boolean | ✘ |
 | addGameStage | String |  | void | ✘ |
+| hasGameStage | String |  | boolean | ✘ |
 | removeGameStage | String |  | void | ✘ |
 | getPlayer |  |  | Player | ✘ |
 | getLevel |  |  | Level | ✘ |
@@ -44,9 +44,9 @@ Note: Even if no fields are listed above, some methods are still available as fi
 
 ### Documented members:
 
-- `boolean getKeepData()`
+- `ServerPlayer getOldPlayer()`
 ```
-Gets whether the player's data was kept, e.g. when returning from the end.
+Gets the player that was before respawn. Note that this entity is already removed from the world.
 ```
 
 - `LivingEntity getEntity()`
@@ -54,18 +54,9 @@ Gets whether the player's data was kept, e.g. when returning from the end.
 Gets the player that respawned.
 ```
 
-- `ServerPlayer getOldPlayer()`
+- `boolean getKeepData()`
 ```
-Gets the player that was before respawn. Note that this entity is already removed from the world.
-```
-
-- `boolean hasGameStage(String var0)`
-
-  Parameters:
-  - var0: String
-
-```
-Checks if the player has the specified game stage
+Gets whether the player's data was kept, e.g. when returning from the end.
 ```
 
 - `void addGameStage(String var0)`
@@ -75,6 +66,15 @@ Checks if the player has the specified game stage
 
 ```
 Adds the specified game stage to the player
+```
+
+- `boolean hasGameStage(String var0)`
+
+  Parameters:
+  - var0: String
+
+```
+Checks if the player has the specified game stage
 ```
 
 - `void removeGameStage(String var0)`

@@ -1,0 +1,25 @@
+{
+    "feature": {
+      "type": "minecraft:ore",
+      "config": {
+        "size": 7,
+        "discard_chance_on_air_exposure": 0,
+        "targets": []
+      }
+    },
+    "placement": [
+      {
+        "type": "minecraft:height_range",
+        "height": {
+          "above_bottom": 0
+        }
+      },
+      {
+        "type": "minecraft:height_range",
+        "height": {
+          "below_top": 210
+        }
+      }
+    ]
+  }
+  
