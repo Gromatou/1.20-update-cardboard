@@ -1,22 +1,16 @@
-[16:02:30] [INIT] KubeJS 2001.6.5-build.7; MC 2001 forge
-[16:02:30] [INIT] Loaded plugins:
-[16:02:30] [INIT] - dev.latvian.mods.kubejs.forge.BuiltinKubeJSForgePlugin
-[16:02:30] [INIT] - dev.latvian.mods.kubejs.forge.BuiltinKubeJSForgeClientPlugin
-[16:02:30] [INIT] - dev.latvian.mods.kubejs.create.KubeJSCreatePlugin
-[16:02:30] [INIT] - com.probejs.ProbeJSPlugin
-[16:02:30] [INFO] Loaded script server_scripts:configured.js in 0.01 s
-[16:02:30] [INFO] Loaded script server_scripts:functions.js in 0.0 s
-[16:02:30] [INFO] Loaded script server_scripts:removed_recipes.js in 0.007 s
-[16:02:30] [INFO] Loaded script server_scripts:tags.js in 0.0 s
-[16:02:30] [INFO] Loaded 4/4 KubeJS server scripts in 0.031 s with 0 errors and 0 warnings
-[16:02:30] [INFO] Scripts loaded
-[16:02:30] [INFO] Initializing recipe event...
-[16:02:32] [INFO] [minecraft:block] Found 500 tags, added 5 objects, removed 0 objects
-[16:02:32] [INFO] [minecraft:item] Found 897 tags, added 618 objects, removed 1 objects
-[16:02:32] [INFO] Processing recipes...
-[16:02:32] [WARN] Failed to parse recipe 'integration:blasting/glass[minecraft:smelting]'! Falling back to vanilla: Ingredient 'ingredient' can't be empty!
-[16:02:32] [INFO] Found 9559 recipes in 152.2 ms
-[16:02:33] [INFO] Posted recipe events in 197.2 ms
-[16:02:33] [WARN] Error parsing recipe integration:milling/ore/kaolinite[create:milling]: {"type":"create:milling","ingredients":[{"item":"tfc:ore/kaolinite"}],"results":[{"item":"tfc:powder/kaolinite","count":4}],"processingTime":100}: Unknown item 'tfc:ore/kaolinite'
-[16:02:33] [INFO] Added 0 recipes, removed 253 recipes, modified 1 recipes, with 1 failed recipes in 45.78 ms
-[16:02:40] [INFO] Server resource reload complete!
+[14:35:24] [INIT] KubeJS 2001.6.5-build.7; MC 2001 forge
+[14:35:24] [INIT] Loaded plugins:
+[14:35:24] [INIT] - dev.latvian.mods.kubejs.forge.BuiltinKubeJSForgePlugin
+[14:35:24] [INIT] - dev.latvian.mods.kubejs.forge.BuiltinKubeJSForgeClientPlugin
+[14:35:24] [INIT] - dev.latvian.mods.kubejs.create.KubeJSCreatePlugin
+[14:35:24] [INIT] - com.probejs.ProbeJSPlugin
+[14:35:24] [INFO] Loaded script server_scripts:configured.js in 0.005 s
+[14:35:24] [INFO] Loaded script server_scripts:functions.js in 0.0 s
+[14:35:24] [INFO] Loaded script server_scripts:removed_recipes.js in 0.009 s
+[14:35:24] [INFO] Loaded script server_scripts:tags.js in 0.001 s
+[14:35:24] [INFO] Loaded 4/4 KubeJS server scripts in 0.036 s with 0 errors and 0 warnings
+[14:35:24] [INFO] Scripts loaded
+[14:35:24] [INFO] Initializing recipe event...
+[14:35:24] [WARN] Due to the way Minecraft resource loading works, KubeJS' server.log may not contain everything that happened in your server scripts on initial world creation.
+[14:35:24] [WARN] You can still see the full log (including past reloads) in your latest.log file.
+[14:35:34] [INFO] Server resource reload complete!
